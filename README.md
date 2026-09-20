@@ -941,3 +941,9 @@ Nomes, códigos e requisitos devem ser conferidos nas páginas oficiais antes da
 - **Perfis digitais:** o README organiza bem as tecnologias por nível de maturidade, evitando comunicar domínio prematuro. O crescimento de seguidores e de contribuições é positivo, mas a base de repositórios públicos ainda é pequena. A seção de Competências do LinkedIn não lista itens já praticados, como C, SQL/Banco de Dados e Make.
 - **Plano de Carreira e PDI:** sequência bem definida até Cloud Architect. A disponibilidade declarada, de cerca de 3 horas por dia, é a maior do grupo e dá folga para cumprir as metas de curto prazo. Como o PDI usa prazos por faixa (0–3 e 3–12 meses) e não marcos mensais, convém traduzir essa carga em entregáveis mensais verificáveis.
 - **Sugestões de melhoria:** registrar as horas de estudo realizadas e transformá-las em marcos mensais; atualizar as Competências do LinkedIn; produzir conteúdo no Dev.to sobre o projeto de automação com IA já concluído.
+
+#### Feedback de Ellen Cristina Soares de Jesus
+
+- **Perfis digitais:** boa transparência sobre o nível de conhecimento e boa centralização de links entre as redes. O artigo no Dev.to ainda não teve nenhuma interação, e o perfil segue 34 usuários sem comentar em nenhum post. O conteúdo publicado até agora tem pouca relação direta com Cloud.
+- **Plano de Carreira e PDI:** PDI bem organizado por prazos e coerente entre discurso e prática. Ainda não há publicações sobre redes, Linux ou AWS, que são os próximos passos previstos.
+- **Sugestões de melhoria:** comentar ativamente nos perfis que já segue; documentar os próximos laboratórios de Linux e AWS assim que iniciados; converter a rotina de estudo de 3 horas diárias em publicações regulares, como um resumo semanal no GitHub ou no Dev.to.
