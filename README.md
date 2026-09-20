@@ -688,3 +688,9 @@ Em cada mês do período, a carga é de 40 horas, distribuídas conforme os bloc
 - Evolução do LinkedIn (seguidores, impressões e aparições em pesquisas) e do GitHub (repositórios com README e deploy).
 
 ### 2.2.7 Feedback por pares recebido por Ellen
+
+#### Feedback de Davi Pereira de Oliveira Silva
+
+- **Perfis digitais:** GitHub consistente com a fase de formação, com bom uso de TypeScript e POO. A headline do LinkedIn ainda não reflete o objetivo de Cloud Architect, mas o crescimento de seguidores e impressões indica que o conteúdo publicado, como o artigo sobre a infraestrutura física da nuvem, tende a funcionar.
+- **Plano de Carreira e PDI:** trajetória ambiciosa e bem estruturada até Cloud Architect, com certificações relevantes previstas a longo prazo. A stack atual é toda Front-end, mas o PDI já agenda Linux (dezembro) e AWS (janeiro a março). Redes, porém, aparecem diluídas em um bloco de APIs em novembro (10 h) e merecem destaque próprio antes da AWS.
+- **Sugestões de melhoria:** incluir termos de Cloud na headline assim que houver prática inicial; replicar no Instagram o nível de conteúdo técnico do Dev.to; priorizar os primeiros laboratórios de Linux e AWS no curto prazo e reservar um bloco específico para redes.
