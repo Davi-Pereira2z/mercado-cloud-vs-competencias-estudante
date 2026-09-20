@@ -963,3 +963,27 @@ Os três integrantes compartilham a mesma formação (Análise e Desenvolvimento
 - **Samuel Guimarães da Silva** parte de uma base de programação (Python, C e Git) somada à experiência em automação com IA (Make e *Prompt Engineering*). Tem Linux e AWS como foco atual de aprendizado e o objetivo final de ser Cloud Architect, passando por Cloud Engineer. Sua disponibilidade declarada, de cerca de 3 horas por dia (aproximadamente 21 horas semanais), é a maior do grupo.
 
 Apesar dos pontos de partida diferentes, os três planos convergem para uma sequência de estudos semelhante: fundamentos de Linux e redes → serviços de nuvem (AWS, Azure ou GCP) → *Infrastructure as Code* (Terraform) → containers (Docker e Kubernetes) → tópicos avançados de segurança, observabilidade, FinOps e arquitetura. Essa convergência confirma, na prática, a base comum de competências mapeada na seção 1.3 e reforça a coerência do direcionamento de carreira escolhido pelo grupo.
+
+### 3.2 Comparação com o mercado
+
+O cruzamento dos planos individuais com o mapeamento do Capítulo 1 mostra alinhamento consistente entre o que os estudantes planejam estudar e o que o mercado exige de DevOps Engineer, Cloud Engineer e Cloud Architect.
+
+- Os itens da base comum do mercado (Linux, redes, Git, Cloud Computing, Docker, Kubernetes, Terraform/IaC, observabilidade, segurança e automação) aparecem nos três PDIs, ainda que em estágios de maturidade diferentes.
+- As competências específicas de Cloud Engineer e Cloud Architect (FinOps, arquitetura de soluções, multicloud e visão de negócio) aparecem posicionadas nos horizontes de médio e longo prazo de Ellen e Samuel, que têm a arquitetura como meta final, e no longo prazo de Davi.
+- O CI/CD, mapeado como mais relevante para DevOps Engineer do que para Cloud Architect, aparece nos três PDIs, com maior antecedência nos planos de Davi (janeiro a março de 2027) e de Ellen (abril a junho de 2027), que passam por DevOps. Já no plano de Samuel ele surge apenas em 1 a 2 anos, coerente com um caminho que segue direto para Cloud Engineer e Architect.
+- A presença digital (LinkedIn, GitHub, Instagram, Dev.to e, no caso de Davi, Medium) já reflete o direcionamento para Cloud, mas de forma parcial, como apontaram os feedbacks por pares do Capítulo 2. Nenhum dos três usa de forma consistente os termos "Cloud", "AWS" ou "DevOps" em todas as redes ao mesmo tempo, o que reduz a aderência às buscas de recrutadores identificadas no mapeamento de vagas (seção 1.2).
+- **Remuneração:** as faixas do Glassdoor (seção 1.1.2) indicam que a evolução planejada (DevOps para Cloud Engineer e Cloud Architect) acompanha um aumento da remuneração central, de cerca de R$ 9 mil a R$ 10 mil para cerca de R$ 14 mil, o que reforça a escolha das trilhas.
+
+### 3.3 Identificação de gaps
+
+| Integrante | Base atual | Alvo de carreira | Principais gaps técnicos |
+|---|---|---|---|
+| Davi Pereira de Oliveira Silva | Python, C, Git/GitHub e modelagem de banco de dados relacional | Desenvolvedor Back-end Jr. → DevOps Pleno → Cloud Engineer | Linux, redes (previstas só a partir de out/2027), Docker, Kubernetes, Terraform/IaC, CI/CD, fundamentos de Cloud (AWS, Azure e GCP) e segurança em nuvem |
+| Ellen Cristina Soares de Jesus | HTML5, CSS3, JavaScript, React e TypeScript (perfil Front-end) | Desenvolvedora Jr. → DevOps Pleno → Cloud Architect | Linux, redes, AWS, Docker, Kubernetes, Terraform, segurança/IAM, arquitetura de soluções e FinOps |
+| Samuel Guimarães da Silva | Python, C, Git/GitHub, automação com Make e *Prompt Engineering* | Estágio ou primeira oportunidade → Cloud Engineer → Cloud Architect | Redes, Linux e AWS (em estudo), Terraform e Docker (planejados), IAM/segurança, Kubernetes, observabilidade e FinOps |
+
+Além dos gaps técnicos individuais, a análise conjunta revela três lacunas comuns ao grupo:
+
+1. **Experiência prática em nuvem ainda inexistente.** Nenhum dos três possui, até o momento, um projeto de Cloud Computing implementado, apenas planejado. Esse é o maior distanciamento em relação às vagas mapeadas na seção 1.2, que exigem prática comprovada em provedores como AWS, Azure ou GCP.
+2. **Carga de estudo desigual e não padronizada.** Samuel declara cerca de 3 horas por dia (aproximadamente 21 horas por semana) e Ellen cerca de 10 horas por semana, enquanto o PDI de Davi não declara a carga. A diferença pode gerar ritmos de evolução desiguais e comprometer prazos que dependem de nivelamento técnico conjunto, como o projeto de grupo.
+3. **Inconsistência na comunicação da marca profissional.** As redes dos três ainda não estão padronizadas quanto às palavras-chave de Cloud, o que reduz a visibilidade do grupo perante recrutadores que buscam por esses termos.
