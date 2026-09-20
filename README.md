@@ -947,3 +947,19 @@ Nomes, códigos e requisitos devem ser conferidos nas páginas oficiais antes da
 - **Perfis digitais:** boa transparência sobre o nível de conhecimento e boa centralização de links entre as redes. O artigo no Dev.to ainda não teve nenhuma interação, e o perfil segue 34 usuários sem comentar em nenhum post. O conteúdo publicado até agora tem pouca relação direta com Cloud.
 - **Plano de Carreira e PDI:** PDI bem organizado por prazos e coerente entre discurso e prática. Ainda não há publicações sobre redes, Linux ou AWS, que são os próximos passos previstos.
 - **Sugestões de melhoria:** comentar ativamente nos perfis que já segue; documentar os próximos laboratórios de Linux e AWS assim que iniciados; converter a rotina de estudo de 3 horas diárias em publicações regulares, como um resumo semanal no GitHub ou no Dev.to.
+
+---
+
+## Capítulo 3 — Conclusão: Análise de Gaps e Plano de Ação
+
+Este capítulo conecta os perfis individuais analisados no Capítulo 2 à realidade do mercado de Cloud Computing apresentada no Capítulo 1. Ele sintetiza os Planos de Carreira e os PDIs de Davi Pereira de Oliveira Silva, Ellen Cristina Soares de Jesus e Samuel Guimarães da Silva, identifica as lacunas entre a situação atual dos três estudantes e as exigências do mercado e propõe um plano de ação com prazos e indicadores para reduzir essas lacunas.
+
+### 3.1 Análise conjunta dos Planos de Carreira e PDIs
+
+Os três integrantes compartilham a mesma formação (Análise e Desenvolvimento de Sistemas na Unicid) e o mesmo direcionamento de carreira em Cloud Computing, mas partem de bases técnicas distintas e seguem trajetórias de especialização complementares.
+
+- **Davi Pereira de Oliveira Silva** parte de uma base de Back-end (Python, C, Git/GitHub e modelagem de bancos relacionais) e planeja evoluir de Desenvolvedor Júnior para DevOps Pleno, com objetivo final de atuar como Cloud Engineer. Seu PDI é o mais detalhado do grupo, com entregáveis definidos por trimestre desde outubro de 2026 e um resumo de custos das certificações. Ele não declara, porém, a carga semanal de estudo.
+- **Ellen Cristina Soares de Jesus** parte de uma base de Front-end (HTML5, CSS3, JavaScript, React e TypeScript) e projeta uma transição mais longa, passando por DevOps Pleno até alcançar Cloud Architect. Seu plano prevê uma pós-graduação (MBA em Cloud Architecture ou Cyber Security) no longo prazo e uma carga de cerca de 40 horas mensais (aproximadamente 10 horas semanais).
+- **Samuel Guimarães da Silva** parte de uma base de programação (Python, C e Git) somada à experiência em automação com IA (Make e *Prompt Engineering*). Tem Linux e AWS como foco atual de aprendizado e o objetivo final de ser Cloud Architect, passando por Cloud Engineer. Sua disponibilidade declarada, de cerca de 3 horas por dia (aproximadamente 21 horas semanais), é a maior do grupo.
+
+Apesar dos pontos de partida diferentes, os três planos convergem para uma sequência de estudos semelhante: fundamentos de Linux e redes → serviços de nuvem (AWS, Azure ou GCP) → *Infrastructure as Code* (Terraform) → containers (Docker e Kubernetes) → tópicos avançados de segurança, observabilidade, FinOps e arquitetura. Essa convergência confirma, na prática, a base comum de competências mapeada na seção 1.3 e reforça a coerência do direcionamento de carreira escolhido pelo grupo.
