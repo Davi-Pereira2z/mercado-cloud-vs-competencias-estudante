@@ -102,3 +102,21 @@ Para estimar a remuneração das três funções, foram consultadas as páginas 
 - **Senioridade.** Em São Paulo, profissionais de DevOps com 1 a 3 anos de experiência relataram, entre janeiro e fevereiro de 2026, remunerações anuais de cerca de R$ 74 mil a R$ 108 mil (aproximadamente R$ 6,2 mil a R$ 9,0 mil por mês, se divididas por 12). Já os perfis sênior chegam a R$ 10 mil–R$ 17 mil (DevOps) e R$ 13 mil–R$ 34 mil (Cloud Architect) na faixa típica.
 - **Ponto de partida dos estudantes.** Como a meta de curto prazo do grupo é o estágio, vale registrar que o Glassdoor não apresenta amostras confiáveis de estágio para essas funções específicas. Os valores acima servem, portanto, como **referência de médio e longo prazo**, e a função de entrada mais próxima (Cloud Support Engineer) indica remuneração inicial entre R$ 5,6 mil e R$ 9,1 mil.
 - **Limitações.** Os dados são autodeclarados e as amostras variam de dezenas a mais de mil salários. A amostra de Senior Cloud Architect (27 salários) é pequena e deve ser interpretada com cautela.
+
+#### 1.1.3 Demanda de vagas e perspectivas de crescimento
+
+Em setembro de 2026, buscas no LinkedIn no Brasil apresentavam mais de 5.000 resultados para *DevOps Engineer*, mais de 5.000 para *Cloud Engineer* e mais de 4.000 para *Cloud Architect*. Como esses números são gerados dinamicamente pela plataforma, eles representam uma fotografia do momento da pesquisa, e não o total absoluto de vagas existentes. Além disso, as buscas misturam funções próximas: a pesquisa de Cloud Engineer, por exemplo, retorna vagas de DevOps, *Platform Engineering* e SRE, o que demonstra a proximidade entre essas áreas.
+
+| Perfil | Tendências relacionadas | Características da demanda |
+|---|---|---|
+| **DevOps Engineer** | CI/CD, automação, Kubernetes, IaC, observabilidade, DevSecOps e integração com Cloud | Empresas procuram profissionais capazes de automatizar entregas, administrar pipelines e melhorar a confiabilidade e a eficiência operacional |
+| **Cloud Engineer** | *Cloud-native*, Kubernetes, multicloud, automação, segurança e FinOps | Demanda relacionada à implementação, à administração e à otimização de ambientes cloud |
+| **Cloud Architect** | Multicloud, modernização, IA, segurança, FinOps e arquiteturas distribuídas | Demanda concentrada em profissionais capazes de projetar soluções escaláveis, seguras, resilientes e alinhadas aos objetivos de negócio |
+
+**Perspectivas de crescimento:** a previsão de crescimento anual acima de 20% do gasto em nuvem pública (Gartner), somada à expansão de IA e de arquiteturas *cloud-native*, indica que a demanda por profissionais com competências de nuvem tende a se manter aquecida nos próximos anos. A proximidade entre as funções também sugere que quem constrói uma base técnica ampla tem mais mobilidade entre elas.
+
+---
+
+### 1.2 Mapeamento de Vagas
+
+O mapeamento de vagas identifica como o mercado descreve as funções de DevOps Engineer, Cloud Engineer e Cloud Architect, quais tecnologias aparecem nos anúncios e quais competências são solicitadas. A pesquisa considerou vagas disponíveis ou recentemente indexadas em setembro de 2026. Como as plataformas atualizam, removem e adicionam anúncios constantemente, os resultados representam o cenário encontrado no período da consulta.
