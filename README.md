@@ -427,3 +427,11 @@ A prova da segunda nuvem (Ano 5) não está incluída no total, pois o valor ain
 - **Perfis digitais:** o GitHub é o ponto forte, com repositórios que evoluem de fundamentos de Python para temas de Cloud, e crescimento real de seguidores. O LinkedIn ainda usa termos fracos na headline ("Foco em", "Interesse em"), não menciona Cloud nem SQL e aparece em poucas pesquisas de recrutadores. Instagram e Dev.to/Medium estão coerentes entre si quanto ao objetivo em Back-end e DevOps, mas não citam a aprovação na Escola da Nuvem, e Python não aparece de forma padronizada em todas as redes.
 - **Plano de Carreira e PDI:** trajetória coerente até Cloud Engineer, com PDI de curto prazo bem detalhado e entregáveis concretos. A comunicação externa (LinkedIn e redes) ainda não acompanha esse planejamento técnico.
 - **Sugestões de melhoria:** atualizar a headline incluindo Cloud e SQL e indicando busca por estágio; padronizar as bios das redes mencionando a Escola da Nuvem e Python; aumentar a frequência de interações com outros perfis.
+
+#### Feedback de Samuel Guimarães da Silva
+
+- **Perfis digitais:** boa consistência entre discurso e prática no GitHub. No LinkedIn, o salto de visualizações (de cerca de 15 para 448) concentra-se em uma única publicação, e a rede ainda é próxima do círculo pessoal do estudante.
+- **Plano de Carreira e PDI:** plano bem fracionado e coerente com o objetivo de Cloud Engineer, e o PDI é o mais detalhado do grupo. As provas de certificação somam cerca de US$ 1.565 ao longo do plano, e os preços estão listados, mas não há indicação da fonte de custeio.
+- **Sugestões de melhoria:** interagir mais com profissionais fora do círculo próximo; levar o nível de detalhe técnico do GitHub para o Instagram e o Dev.to; definir como as certificações serão custeadas (vouchers, benefícios do empregador) e qual a ordem de prioridade caso seja preciso reduzir custos.
+
+---
