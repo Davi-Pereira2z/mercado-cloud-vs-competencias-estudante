@@ -1003,3 +1003,38 @@ O plano a seguir parte de 21 de setembro de 2026 e usa prazos com datas, respons
 | G5 | Nivelar e registrar a carga de estudo: Davi declara sua carga semanal no PDI; todos registram as horas em planilha compartilhada | Declaração até 31/10/2026; registro contínuo | 3 de 3 PDIs com horas semanais declaradas e registro mensal preenchido |
 | G6 | Publicar artigos técnicos cruzados (Dev.to ou Medium), 1 por integrante a cada 2 meses, com ao menos 3 deles sobre o projeto conjunto | Início em nov/2026; artigos do projeto até 31/03/2028 | Pelo menos 1 artigo por integrante a cada 2 meses e 3 artigos sobre o projeto |
 | G7 | Realizar 1 reunião mensal de acompanhamento e revisar o plano de ação a cada semestre | Reuniões mensais; revisões em mar/2027 e set/2027, e assim por diante | Ata mensal com o percentual de metas cumpridas; revisões registradas no repositório |
+
+#### 3.4.2 Ações individuais
+
+**Davi Pereira de Oliveira Silva** (Back-end → DevOps → Cloud Engineer)
+
+| Nº | Ação | Prazo | Indicador de sucesso |
+|---|---|---|---|
+| D1 | Reescrever a headline do LinkedIn incluindo Cloud, SQL e a busca por estágio | 31/10/2026 | Headline atualizada; aparições em pesquisas subindo de 9 por semana (set/2026) para 20 ou mais até 31/01/2027 |
+| D2 | Ampliar a rede com profissionais e recrutadores de TI e Cloud | 31/03/2027 | De 121 para pelo menos 200 conexões, com metade ou mais ligada à área de TI |
+| D3 | Antecipar os fundamentos de redes (TCP/IP, DNS, HTTP e sub-redes), hoje previstos só para out/2027, para antes do estudo de AWS | 31/01/2027 | Resumo e exercícios de redes publicados no GitHub |
+| D4 | Concluir a certificação Cloud Practitioner e colocar uma aplicação no ar na AWS com pipeline de CI/CD | 31/03/2027 | Certificação obtida; aplicação acessível com pipeline no GitHub Actions |
+| D5 | Levar o conteúdo técnico do GitHub ao Dev.to e ao Instagram | Dev.to até 30/11/2026; Instagram contínuo | 1 artigo sobre Python ou Back-end no Dev.to e 2 posts por mês no Instagram |
+| D6 | Definir a fonte de custeio das provas de certificação (vouchers, benefícios do empregador ou recursos próprios) | 31/01/2027 | Planilha de custos com fonte e ordem de prioridade de cada prova |
+
+**Ellen Cristina Soares de Jesus** (Front-end → DevOps → Cloud Architect)
+
+| Nº | Ação | Prazo | Indicador de sucesso |
+|---|---|---|---|
+| E1 | Atualizar a headline do LinkedIn com Cloud Computing e AWS, mantendo a stack atual | 31/10/2026 | Headline atualizada com pelo menos 2 termos de Cloud |
+| E2 | Completar a análise de seguidores do GitHub e incluir README com demonstração nos 3 repositórios | 31/10/2026 | Métricas de seguidores registradas em 2 datas e 3 de 3 repositórios com README completo |
+| E3 | Publicar o primeiro laboratório de Linux e o primeiro de AWS (EC2 e S3) | Linux até 31/12/2026; AWS até 31/03/2027 | 2 laboratórios documentados no GitHub |
+| E4 | Decidir se fará a Cloud Practitioner como validação dos fundamentos antes da preparação para o SAA | 31/01/2027 | Decisão registrada no PDI; se positiva, prova concluída até 30/04/2027 |
+| E5 | Aumentar a frequência de conteúdo no Instagram e no Dev.to | Contínuo, a partir de out/2026 | 2 posts por mês no Instagram (mínimo de 8 até 31/03/2027) e 2º artigo no Dev.to até 31/10/2026 |
+| E6 | Detalhar tempo e custo do MBA previsto para o longo prazo | 31/03/2027 | Documento com mensalidade, duração e forma de custeio, conciliado com as certificações do período |
+
+**Samuel Guimarães da Silva** (Automação → Cloud Engineer → Cloud Architect)
+
+| Nº | Ação | Prazo | Indicador de sucesso |
+|---|---|---|---|
+| S1 | Incluir C, SQL/Banco de Dados e Make na seção de Competências do LinkedIn | 15/10/2026 | 3 competências novas adicionadas |
+| S2 | Cumprir a rotina de cerca de 3 horas de estudo por dia e registrar as horas | Contínuo, a partir de out/2026 | No mínimo 75 horas registradas por mês |
+| S3 | Concluir a etapa de redes e Linux prevista para 0 a 3 meses | 31/12/2026 | 1 resumo de redes e 3 laboratórios de Linux documentados no GitHub |
+| S4 | Realizar o primeiro laboratório de AWS e, depois, um projeto pequeno de Cloud documentado | Laboratório até 31/01/2027; projeto até 30/09/2027 | Laboratório publicado e projeto com README e diagrama no GitHub |
+| S5 | Ampliar a interação no Dev.to e no Instagram | Contínuo, a partir de out/2026 | Comentar em pelo menos 2 posts por semana, seguir ao menos 5 tags, publicar um 2º artigo (Linux ou AWS) até 31/12/2026 e manter 2 posts por mês no Instagram |
+| S6 | Decidir sobre a certificação Cloud Practitioner ao final do curto prazo | Decisão até 31/03/2027; prova até 30/06/2027 | Decisão registrada no PDI; se positiva, certificação obtida no prazo |
