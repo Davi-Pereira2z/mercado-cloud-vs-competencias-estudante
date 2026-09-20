@@ -1038,3 +1038,23 @@ O plano a seguir parte de 21 de setembro de 2026 e usa prazos com datas, respons
 | S4 | Realizar o primeiro laboratório de AWS e, depois, um projeto pequeno de Cloud documentado | Laboratório até 31/01/2027; projeto até 30/09/2027 | Laboratório publicado e projeto com README e diagrama no GitHub |
 | S5 | Ampliar a interação no Dev.to e no Instagram | Contínuo, a partir de out/2026 | Comentar em pelo menos 2 posts por semana, seguir ao menos 5 tags, publicar um 2º artigo (Linux ou AWS) até 31/12/2026 e manter 2 posts por mês no Instagram |
 | S6 | Decidir sobre a certificação Cloud Practitioner ao final do curto prazo | Decisão até 31/03/2027; prova até 30/06/2027 | Decisão registrada no PDI; se positiva, certificação obtida no prazo |
+
+#### 3.4.3 Acompanhamento
+
+O grupo registrará o andamento das ações G1 a G7, D1 a D6, E1 a E6 e S1 a S6 em uma tabela no repositório, marcando cada uma como *concluída*, *em andamento* ou *atrasada*. A reunião mensal (G7) avalia o percentual de metas cumpridas, e a revisão semestral ajusta os prazos com base nos resultados. Assim, a evolução técnica individual de Davi, Ellen e Samuel caminha junto com evidências práticas (laboratórios, projetos e artigos) e com uma presença profissional coerente entre GitHub, LinkedIn, Instagram e Dev.to.
+
+---
+
+## Referências
+
+- GARTNER. *Forecast: Public Cloud Services, Worldwide, 2023–2029, 3Q25 Update*. 26 set. 2025. Disponível em: <https://www.gartner.com/en/documents/6996966>.
+- BRASSCOM. Dados de profissionais de TIC com vínculo CLT no Brasil, 2025.
+- GLASSDOOR BRASIL. Salários de DevOps Engineer: <https://www.glassdoor.com.br/Sal%C3%A1rios/devops-engineer-sal%C3%A1rio-SRCH_KO0,15.htm>. Acesso em: set. 2026.
+- GLASSDOOR BRASIL. Salários de DevOps Engineer em São Paulo, SP: <https://www.glassdoor.com.br/Sal%C3%A1rios/s%C3%A3o-paulo-sp-devops-engineer-sal%C3%A1rio-SRCH_IL.0,12_IC2479061_KO13,28.htm>. Acesso em: set. 2026.
+- GLASSDOOR BRASIL. Salários de Senior DevOps Engineer: <https://www.glassdoor.com.br/Sal%C3%A1rios/senior-devops-engineer-sal%C3%A1rio-SRCH_KO0,22.htm>. Acesso em: set. 2026.
+- GLASSDOOR BRASIL. Salários de Cloud Engineer: <https://www.glassdoor.com.br/Sal%C3%A1rios/cloud-engineer-sal%C3%A1rio-SRCH_KO0,14.htm>. Acesso em: set. 2026.
+- GLASSDOOR BRASIL. Salários de Cloud Support Engineer: <https://www.glassdoor.com.br/Sal%C3%A1rios/cloud-support-engineer-sal%C3%A1rio-SRCH_KO0,22.htm>. Acesso em: set. 2026.
+- GLASSDOOR BRASIL. Salários de Cloud Architect: <https://www.glassdoor.com.br/Sal%C3%A1rios/cloud-architect-sal%C3%A1rio-SRCH_KO0,15.htm>. Acesso em: set. 2026.
+- GLASSDOOR BRASIL. Salários de Senior Cloud Architect: <https://www.glassdoor.com.br/Sal%C3%A1rios/senior-cloud-architect-sal%C3%A1rio-SRCH_KO0,22.htm>. Acesso em: set. 2026.
+- LINKEDIN. Buscas de vagas de DevOps Engineer, Cloud Engineer, Cloud Architect, Arquiteto de Nuvem e Arquiteto Cloud no Brasil. Acesso em: set. 2026.
+- Vagas analisadas: Bunge (DevOps Engineer), MIGRATE Sistemas (Analista de Infraestrutura Cloud) e JAMC Consultoria (Arquiteto de Nuvem Multicloud). Acesso em: set. 2026.
