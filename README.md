@@ -421,3 +421,9 @@ O alinhamento é alto: bio, foto, link e post apontam para Back-end, banco de da
 A prova da segunda nuvem (Ano 5) não está incluída no total, pois o valor ainda será confirmado.
 
 ### 2.1.7 Feedback por pares recebido por Davi
+
+#### Feedback de Ellen Cristina Soares de Jesus
+
+- **Perfis digitais:** o GitHub é o ponto forte, com repositórios que evoluem de fundamentos de Python para temas de Cloud, e crescimento real de seguidores. O LinkedIn ainda usa termos fracos na headline ("Foco em", "Interesse em"), não menciona Cloud nem SQL e aparece em poucas pesquisas de recrutadores. Instagram e Dev.to/Medium estão coerentes entre si quanto ao objetivo em Back-end e DevOps, mas não citam a aprovação na Escola da Nuvem, e Python não aparece de forma padronizada em todas as redes.
+- **Plano de Carreira e PDI:** trajetória coerente até Cloud Engineer, com PDI de curto prazo bem detalhado e entregáveis concretos. A comunicação externa (LinkedIn e redes) ainda não acompanha esse planejamento técnico.
+- **Sugestões de melhoria:** atualizar a headline incluindo Cloud e SQL e indicando busca por estágio; padronizar as bios das redes mencionando a Escola da Nuvem e Python; aumentar a frequência de interações com outros perfis.
