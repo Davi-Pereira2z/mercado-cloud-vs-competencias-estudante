@@ -694,3 +694,11 @@ Em cada mês do período, a carga é de 40 horas, distribuídas conforme os bloc
 - **Perfis digitais:** GitHub consistente com a fase de formação, com bom uso de TypeScript e POO. A headline do LinkedIn ainda não reflete o objetivo de Cloud Architect, mas o crescimento de seguidores e impressões indica que o conteúdo publicado, como o artigo sobre a infraestrutura física da nuvem, tende a funcionar.
 - **Plano de Carreira e PDI:** trajetória ambiciosa e bem estruturada até Cloud Architect, com certificações relevantes previstas a longo prazo. A stack atual é toda Front-end, mas o PDI já agenda Linux (dezembro) e AWS (janeiro a março). Redes, porém, aparecem diluídas em um bloco de APIs em novembro (10 h) e merecem destaque próprio antes da AWS.
 - **Sugestões de melhoria:** incluir termos de Cloud na headline assim que houver prática inicial; replicar no Instagram o nível de conteúdo técnico do Dev.to; priorizar os primeiros laboratórios de Linux e AWS no curto prazo e reservar um bloco específico para redes.
+
+#### Feedback de Samuel Guimarães da Silva
+
+- **Perfis digitais:** boa consistência de identidade entre as redes, com a mesma foto e bio-base. O crescimento de seguidores no LinkedIn é sólido, mas o Instagram ainda tem base muito pequena e apenas uma publicação.
+- **Plano de Carreira e PDI:** sequência técnica lógica e distribuição mensal de estudos bem definida. O MBA previsto no longo prazo coincide com outras certificações técnicas, o que merece mais detalhamento de tempo e custo.
+- **Sugestões de melhoria:** aumentar a frequência de publicações no Instagram e no Dev.to; reforçar na seção de Competências do LinkedIn o que já foi praticado, vinculando React, TypeScript e Git/GitHub aos projetos PetHouse e Corrida Lendária na seção de destaques; antecipar um primeiro contato prático com AWS ou Linux.
+
+---
