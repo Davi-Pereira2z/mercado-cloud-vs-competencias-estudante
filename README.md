@@ -120,3 +120,27 @@ Em setembro de 2026, buscas no LinkedIn no Brasil apresentavam mais de 5.000 res
 ### 1.2 Mapeamento de Vagas
 
 O mapeamento de vagas identifica como o mercado descreve as funções de DevOps Engineer, Cloud Engineer e Cloud Architect, quais tecnologias aparecem nos anúncios e quais competências são solicitadas. A pesquisa considerou vagas disponíveis ou recentemente indexadas em setembro de 2026. Como as plataformas atualizam, removem e adicionam anúncios constantemente, os resultados representam o cenário encontrado no período da consulta.
+
+#### Links utilizados na pesquisa
+
+**Buscas gerais**
+
+| Busca | Plataforma | Link |
+|---|---|---|
+| DevOps Engineer | LinkedIn | [Vagas de DevOps Engineer no Brasil](https://br.linkedin.com/jobs/devops-engineer-vagas?utm_source=chatgpt.com) |
+| Cloud Engineer | LinkedIn | [Vagas de Cloud Engineer no Brasil](https://br.linkedin.com/jobs/cloud-engineer-vagas?utm_source=chatgpt.com) |
+| Cloud Architect | LinkedIn | [Vagas de Cloud Architect no Brasil](https://br.linkedin.com/jobs/cloud-architect-vagas?utm_source=chatgpt.com) |
+| Arquiteto de Nuvem | LinkedIn | [Vagas de Arquiteto de Nuvem no Brasil](https://br.linkedin.com/jobs/arquiteto-de-nuvem-vagas?utm_source=chatgpt.com) |
+| Arquiteto Cloud | LinkedIn | [Vagas de Arquiteto Cloud no Brasil](https://br.linkedin.com/jobs/arquiteto-cloud-vagas?utm_source=chatgpt.com) |
+| Cloud Architect | Indeed | [Vagas de Cloud Architect no Indeed](https://br.indeed.com/q-cloud-architect-jobs.html?utm_source=chatgpt.com) |
+| Cloud Architect | Glassdoor | [Vagas de Cloud Architect no Glassdoor](https://www.glassdoor.com.br/Vaga/brasil-cloud-architect-vagas-SRCH_IL.0%2C6_IN36_KO7%2C22.htm?utm_source=chatgpt.com) |
+
+#### Vagas analisadas
+
+| Função | Empresa | Local | Publicação | Hard skills solicitadas | Soft skills e atividades destacadas | Link |
+|---|---|---|---|---|---|---|
+| DevOps Engineer | Bunge | São Paulo | Setembro/2026 | GitLab, GitHub, Bitbucket ou Azure DevOps; Ansible; Docker; Kubernetes; Python ou Bash; AWS, Azure ou GCP; ferramentas de monitoramento; Terraform ou CloudFormation; pipelines de CI/CD | Colaboração com equipes de desenvolvimento e infraestrutura; resolução de incidentes | [Bunge — Dev Ops Engineer](https://jobs.bunge.com/job/Sao-Paulo-Dev-Ops-Engineer-SP-05423-010/1387137133/?utm_source=chatgpt.com) |
+| Cloud Engineer (busca ampla) | Diversas | Brasil | Setembro/2026 | AWS, Azure e GCP; resultados incluem Azure Cloud Engineer, GCP Cloud Engineer, Cloud Infrastructure Engineer e DevOps/Cloud Engineer | Posições que combinam Cloud Engineer com DevOps e *Platform Engineering* | [Cloud Engineer — LinkedIn Brasil](https://br.linkedin.com/jobs/cloud-engineer-vagas?utm_source=chatgpt.com) |
+| Analista de Infraestrutura Cloud (perfil equivalente a Cloud Engineer) | MIGRATE Sistemas | Rio Grande do Sul | Setembro/2026 | Infraestrutura, Linux, Windows e redes; diferenciais: AWS, GCP ou Azure, Docker, Kubernetes, CI/CD, SQL e bancos de dados | Organização, trabalho em equipe, busca por desenvolvimento, perfil inovador e capacidade de enfrentar desafios | [MIGRATE Sistemas — Analista de Infraestrutura Cloud](https://vemsermigrater.vagas.solides.com.br/vaga/820567?utm_source=chatgpt.com) |
+| Arquiteto de Nuvem (Cloud Architect) — Multicloud | JAMC Consultoria | Não informado | Setembro/2026 | AWS, Azure ou Google Cloud; arquitetura de aplicações escaláveis, resilientes e seguras; redes; containers; *serverless*; armazenamento; bancos de dados; IAM; Docker; Kubernetes; Terraform; automação | Definir arquiteturas, apoiar migração e modernização, participar de discussões técnicas, elaborar documentação e diagramas de arquitetura | [JAMC — Arquiteto de Nuvem Multicloud](https://br.indeed.com/viewjob?jk=5e13ad051c4ee11d&utm_source=chatgpt.com) |
+
