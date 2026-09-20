@@ -6,7 +6,7 @@
 
 * Davi Pereira de Oliveira Silva
 * Ellen Cristina Soares de Jesus
-* Samuel Guimaraes da Silva
+* Samuel Guimarâes da Silva
 
 **Curso:** Análise e Desenvolvimento de Sistemas — Universidade Cidade de São Paulo (Unicid)
 **Disciplina:** Design Profissional
@@ -67,3 +67,38 @@ Voltado ao planejamento e à definição de soluções tecnológicas, transforma
 **Síntese de diferenciação:** os três perfis compartilham uma base técnica comum, mas têm focos distintos. O DevOps direciona-se à automação e à entrega contínua; o Cloud Engineer, à implementação e à operação da infraestrutura; e o Cloud Architect, ao planejamento estratégico e às decisões arquiteturais.
 
 ---
+
+### 1.1 Análise de Mercado
+
+#### 1.1.1 Crescimento e tendências
+
+- **Crescimento:** impulsionado por IA, modernização de aplicações e ambientes *cloud-native*.
+- **Panorama no Brasil (Brasscom, 2025):** aproximadamente 494.427 profissionais de TI com vínculo CLT no setor de Tecnologia da Informação e Comunicação (TIC), sendo 65.212 em infraestrutura e 41.089 em redes. Esses são indicadores gerais do setor, e não exclusivos de Cloud.
+- **Tendências tecnológicas:**
+  - automação e DevOps (CI/CD, IaC, containers e Kubernetes);
+  - *cloud-native* e microsserviços;
+  - multicloud e ambientes híbridos;
+  - IA integrada à nuvem (*Agentic AI*);
+  - FinOps (otimização de custos) e segurança/DevSecOps.
+
+#### 1.1.2 Salários
+
+Para estimar a remuneração das três funções, foram consultadas as páginas de salários do Glassdoor Brasil, cujos valores são informados de forma anônima pelos próprios profissionais (dados de 2026). Os números abaixo referem-se ao **salário-base mensal, em reais**, sem bônus. A "faixa típica" corresponde ao intervalo entre o 25º e o 75º percentis, e o "Top 10%" ao 90º percentil.
+
+| Função (localização) | Amostra (salários) | Faixa típica (25º–75º percentil) | Valor central | Top 10% (90º percentil) |
+|---|---|---|---|---|
+| DevOps Engineer (Brasil) | 1.266 | R$ 6.281 – R$ 13.417 | R$ 9.091 (média) | R$ 16.783 |
+| DevOps Engineer (São Paulo, SP) | 500 | R$ 7.417 – R$ 13.917 | R$ 10.100 (mediana) | R$ 17.617 |
+| Senior DevOps Engineer (Brasil) | ≈ 220 | R$ 10.656 – R$ 17.083 | R$ 13.750 (média) | R$ 19.417 |
+| Cloud Engineer (Brasil) | 238 | R$ 6.417 – R$ 16.833 | R$ 10.342 (mediana) | R$ 23.811 |
+| Cloud Support Engineer (Brasil) — função de entrada | 51 | R$ 5.583 – R$ 9.057 | R$ 7.162 (mediana) | R$ 11.957 |
+| Cloud Architect (Brasil) | 147 | R$ 8.350 – R$ 20.000 | R$ 14.250 (mediana) | R$ 30.525 |
+| Senior Cloud Architect (Brasil) | 27 | R$ 12.773 – R$ 34.375 | R$ 19.250 (média) | R$ 68.620 |
+
+**Leitura dos dados:**
+
+- **Ordem de grandeza por função.** A remuneração central cresce do DevOps Engineer (cerca de R$ 9 mil a R$ 10 mil) para o Cloud Engineer (cerca de R$ 10 mil) e o Cloud Architect (cerca de R$ 14 mil), o que acompanha a maior responsabilidade estratégica da arquitetura. A remuneração variável média informada é de cerca de R$ 1 mil por mês para Cloud Engineer e de cerca de R$ 2 mil por mês para Cloud Architect.
+- **Dispersão.** As faixas são amplas. Um Cloud Engineer, por exemplo, tem 25º percentil de R$ 6.417 e 75º de R$ 16.833, diferença explicada por senioridade, porte da empresa, cidade e regime de contratação.
+- **Senioridade.** Em São Paulo, profissionais de DevOps com 1 a 3 anos de experiência relataram, entre janeiro e fevereiro de 2026, remunerações anuais de cerca de R$ 74 mil a R$ 108 mil (aproximadamente R$ 6,2 mil a R$ 9,0 mil por mês, se divididas por 12). Já os perfis sênior chegam a R$ 10 mil–R$ 17 mil (DevOps) e R$ 13 mil–R$ 34 mil (Cloud Architect) na faixa típica.
+- **Ponto de partida dos estudantes.** Como a meta de curto prazo do grupo é o estágio, vale registrar que o Glassdoor não apresenta amostras confiáveis de estágio para essas funções específicas. Os valores acima servem, portanto, como **referência de médio e longo prazo**, e a função de entrada mais próxima (Cloud Support Engineer) indica remuneração inicial entre R$ 5,6 mil e R$ 9,1 mil.
+- **Limitações.** Os dados são autodeclarados e as amostras variam de dezenas a mais de mil salários. A amostra de Senior Cloud Architect (27 salários) é pequena e deve ser interpretada com cautela.
