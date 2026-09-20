@@ -987,3 +987,19 @@ Além dos gaps técnicos individuais, a análise conjunta revela três lacunas c
 1. **Experiência prática em nuvem ainda inexistente.** Nenhum dos três possui, até o momento, um projeto de Cloud Computing implementado, apenas planejado. Esse é o maior distanciamento em relação às vagas mapeadas na seção 1.2, que exigem prática comprovada em provedores como AWS, Azure ou GCP.
 2. **Carga de estudo desigual e não padronizada.** Samuel declara cerca de 3 horas por dia (aproximadamente 21 horas por semana) e Ellen cerca de 10 horas por semana, enquanto o PDI de Davi não declara a carga. A diferença pode gerar ritmos de evolução desiguais e comprometer prazos que dependem de nivelamento técnico conjunto, como o projeto de grupo.
 3. **Inconsistência na comunicação da marca profissional.** As redes dos três ainda não estão padronizadas quanto às palavras-chave de Cloud, o que reduz a visibilidade do grupo perante recrutadores que buscam por esses termos.
+
+### 3.4 Plano de ação
+
+O plano a seguir parte de 21 de setembro de 2026 e usa prazos com datas, responsáveis e indicadores numéricos. As ações de grupo foram desenhadas para reduzir as três lacunas comuns, e as individuais, para tratar os gaps de cada integrante. Os prazos foram calibrados com base nos cronogramas e nas cargas de estudo dos PDIs.
+
+#### 3.4.1 Ações em grupo
+
+| Nº | Ação | Prazo | Indicador de sucesso |
+|---|---|---|---|
+| G1 | Padronizar headlines e bios de LinkedIn, GitHub, Instagram e Dev.to com o termo "Cloud" e o cargo-alvo de cada integrante | 31/10/2026 | 12 de 12 perfis (3 integrantes × 4 redes) contendo "Cloud" na bio ou na headline, conferidos em checklist |
+| G2 | Criar um repositório público de portfólio conjunto, com README e organização por integrante | 31/10/2026 | Repositório criado e ao menos 1 *pull request* mesclado por integrante |
+| G3 | Publicar 1 laboratório prático documentado por mês por integrante, de Linux (a partir de dez/2026) e de AWS (a partir de jan/2027) | dez/2026 a jun/2027 | Pelo menos 7 laboratórios por integrante no repositório conjunto (dez/2026 a jun/2027) |
+| G4 | Desenvolver um projeto conjunto de Cloud: desenho da arquitetura, aplicação no ar na AWS e infraestrutura provisionada com Terraform | Arquitetura em 30/06/2027; aplicação no ar em 30/09/2027; IaC em 31/12/2027 | Diagrama publicado, aplicação acessível, código Terraform versionado e, por integrante, no mínimo 10 commits e 2 *pull requests* no projeto |
+| G5 | Nivelar e registrar a carga de estudo: Davi declara sua carga semanal no PDI; todos registram as horas em planilha compartilhada | Declaração até 31/10/2026; registro contínuo | 3 de 3 PDIs com horas semanais declaradas e registro mensal preenchido |
+| G6 | Publicar artigos técnicos cruzados (Dev.to ou Medium), 1 por integrante a cada 2 meses, com ao menos 3 deles sobre o projeto conjunto | Início em nov/2026; artigos do projeto até 31/03/2028 | Pelo menos 1 artigo por integrante a cada 2 meses e 3 artigos sobre o projeto |
+| G7 | Realizar 1 reunião mensal de acompanhamento e revisar o plano de ação a cada semestre | Reuniões mensais; revisões em mar/2027 e set/2027, e assim por diante | Ata mensal com o percentual de metas cumpridas; revisões registradas no repositório |
