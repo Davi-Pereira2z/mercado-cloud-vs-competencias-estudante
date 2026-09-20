@@ -435,3 +435,256 @@ A prova da segunda nuvem (Ano 5) não está incluída no total, pois o valor ain
 - **Sugestões de melhoria:** interagir mais com profissionais fora do círculo próximo; levar o nível de detalhe técnico do GitHub para o Instagram e o Dev.to; definir como as certificações serão custeadas (vouchers, benefícios do empregador) e qual a ordem de prioridade caso seja preciso reduzir custos.
 
 ---
+
+## 2.2 Ellen Cristina Soares de Jesus
+
+### 2.2.1 Análise do perfil no GitHub
+
+#### Identificação do perfil
+
+- **Usuário:** [Ellen-Soares](https://github.com/Ellen-Soares)
+- **Descrição do README:** o perfil apresenta Ellen como estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (Unicid), atualmente no 2º semestre, com foco em desenvolvimento de software e interesse crescente em Cloud Computing e infraestrutura. Demonstra conhecimentos em HTML5, TypeScript, lógica de programação e desenvolvimento web, e reflete uma evolução em direção à computação em nuvem, alinhada ao objetivo de carreira de Cloud Architect.
+
+#### Repositórios públicos
+
+O perfil possui **3 repositórios públicos**, todos analisados a seguir: PetHouse-Sistema-de-Gestao-Clinica-Veterinaria, Jogo-Pole-Position e Corrida-Lendaria. O repositório com mais estrelas é o **PetHouse-Sistema-de-Gestao-Clinica-Veterinaria** (3 estrelas).
+
+> **Repositórios estão fixados (pinados):** Não possuem repositórios pinados
+
+**1. PetHouse-Sistema-de-Gestao-Clinica-Veterinaria — 3 estrelas**
+
+- **Descrição:** aplicação web para a gestão e o controle administrativo de uma clínica veterinária, focada em organizar informações essenciais de atendimento e em criar interfaces para sistemas de informação.
+- **Funcionalidades:** interface para cadastro de pets e tutores; módulos para controle de agendamentos e consultas; formulários estruturados para a rotina administrativa; apresentação organizada dos dados para facilitar a navegação.
+- **Tecnologias e conceitos:** HTML5 (estruturação semântica); manipulação de DOM; formulários e validação; organização do fluxo de dados de sistemas de informação.
+- **Funcionamento:** o usuário acessa a interface no navegador e usa os formulários para registrar animais ou consultar informações operacionais. A estrutura dos arquivos HTML permite navegar entre os módulos, mantendo as informações organizadas e acessíveis.
+- **Aplicação prática:** demonstra o uso do desenvolvimento web para resolver problemas reais de gestão, oferecendo uma solução acessível a pequenos estabelecimentos do setor pet.
+
+**2. Jogo-Pole-Position**
+
+- **Descrição:** aplicação interativa em HTML inspirada em jogos clássicos de corrida, que aplica lógica de programação e manipulação de eventos em tempo real no navegador.
+- **Funcionalidades:** movimentação do veículo na pista; pontuação e acompanhamento de progresso; renderização de elementos gráficos e obstáculos; captura de comandos do usuário.
+- **Tecnologias e conceitos:** HTML5; lógica de programação (fluxo de controle, laços e condições de vitória e derrota); eventos do navegador (teclado e mouse).
+- **Funcionamento:** o jogo roda no navegador, captura as ações do jogador em tempo real para mover o veículo, desviar de obstáculos e calcular a pontuação com base no tempo e na distância percorrida.
+- **Aplicação prática:** demonstra a estruturação de algoritmos interativos e a base para entender como aplicações web tratam eventos e atualização dinâmica da tela.
+
+**3. Corrida-Lendaria**
+
+- **Descrição:** aplicação em TypeScript que implementa regras e lógica para simulação de corridas, destacando o aprendizado de tipagem estática e de organização de código orientada a objetos.
+- **Funcionalidades:** execução das regras da simulação; estruturação de dados com tipos definidos, prevenindo erros em tempo de compilação; gerenciamento do estado dos elementos da partida.
+- **Tecnologias e conceitos:** TypeScript; Programação Orientada a Objetos (POO); boas práticas de organização e modularização de código.
+- **Funcionamento:** o código processa as variáveis e os métodos da simulação, e os tipos definidos para as entidades (veículos, tempo e posições) evitam inconsistências de dados.
+- **Aplicação prática:** representa o avanço no uso de linguagens fortemente tipadas, competência útil para microsserviços, automações e soluções que futuramente se integram a arquiteturas em nuvem.
+
+#### Evolução de seguidores
+
+Na análise da evolução do perfil no GitHub, o número de seguidores passou de 0 para 18 (um 
+crescimento expressivo a partir da criação da rede), enquanto o perfil mantém 54 contas seguidas. 
+ 
+Tendência: A criação de uma base de 18 seguidores e o acompanhamento de 54 perfis da área 
+indicam uma busca ativa por networking e conexões com outros estudantes e 
+desenvolvedores.  
+Engajamento: Os repositórios públicos já somam interações da comunidade, acumulando 64 
+estrelas concedidas (stars) e destaque para projetos como o PetHouse-Sistema-de-Gestao
+Clinica-Veterinaria (com 3 estrelas), sinalizando interesse e interação com os códigos 
+disponibilizados.  
+Evolução do conteúdo: Os projetos iniciais no perfil concentram-se em fundamentos de 
+programação e desenvolvimento web (HTML e TypeScript). O repositório Corrida-Lendaria, 
+desenvolvido em TypeScript, marca a transição para linguagens fortemente tipadas, 
+preparando o terreno para a evolução do perfil profissional rumo à automação, infraestrutura 
+e Cloud Computing (alinhado aos novos estudos e à participação na Escola da Nuvem) 
+
+### 2.2.2 Análise do perfil no LinkedIn
+
+#### Cargo-alvo e stack
+
+O objetivo de carreira é a função de **Cloud Architect**. A stack registrada no perfil é de desenvolvimento Front-end e linguagens base: React, TypeScript, JavaScript, HTML5 e CSS3, além da formação em Análise e Desenvolvimento de Sistemas. Ellen trabalha atualmente como assistente financeira na Lello Imóveis e está em transição para a área de tecnologia. O nível de experiência em tecnologia é de entrada.
+
+#### Headline profissional
+
+> Assistente Financeiro - Estudante de ADS | Front-End | React, TypeScript, JS, HTML/CSS
+
+A headline reflete com clareza a transição entre a atuação profissional atual e os estudos em tecnologia. Para alinhar-se à meta de Cloud Architect, recomenda-se incluir termos de infraestrutura, redes e computação em nuvem (por exemplo, Cloud Computing, AWS, Azure, DevOps), acompanhando as especializações em curso, como a Escola da Nuvem.
+
+#### Crescimento da rede
+
+- **Seguidores:** passaram de 12 para 62 (aumento de 50, ou cerca de **+417%**), com 63 conexões diretas na captura mais recente. O crescimento reflete a expansão da presença digital na fase de transição de carreira.
+- **Alcance:** o painel de análise dos últimos 90 dias registrou 87 impressões de conteúdo (**+625%** em relação ao período anterior), 18 visualizações de perfil e 16 usuários alcançados. Em uma captura distinta, uma publicação recente somou 132 impressões.
+- **Origem da audiência:** 72% do alcance vem da própria rede (seguidores e conexões) e 28% de fora dela, o que indica boa capacidade de atração orgânica.
+- **Tendência:** a entrada em ecossistemas focados em nuvem e a participação em eventos presenciais e virtuais criam a base para conectar o perfil a recrutadores, engenheiros de cloud e arquitetos de soluções.
+
+#### Atividade e engajamento
+
+Ellen publica conteúdos sobre a jornada de aprendizagem (*build in public*), como a participação em eventos e a entrada na Escola da Nuvem. As publicações geram interações (comentários e reações), e a publicação mais recente obteve 132 impressões e reações da comunidade profissional. A estratégia de conexão tem se mostrado eficaz no ecossistema acadêmico e em programas de capacitação. O ponto a evoluir é ampliar a frequência de publicações e de comentários em posts de outras pessoas.
+
+### 2.2.3 Análise do perfil no Instagram
+
+**Resumo:** o perfil tem posicionamento claro e coerente com o objetivo de carreira em Cloud Computing e Arquitetura de Nuvem. O conteúdo reflete o início da jornada de aprendizado em programação (*build in public*), mas a conta é recente e o alcance ainda é inicial.
+
+#### Bio
+
+O perfil é **@ellencs_jesus**, com o nome "Ellen Soares she/her", 1 publicação, 2 seguidores e 3 seguindo. A bio apresenta:
+
+- 💻 ADS (2º Sem)
+- 🛠️ C, Python & BD
+- ☁️ Futura Cloud Architect
+- 🔗 dev.to/ellensoares e mais 2 links
+
+**Pontos fortes:**
+
+- é extremamente curta e direta, mostrando com emojis quem é, o que estuda e aonde quer chegar;
+- utiliza palavras-chave estratégicas (ADS, C, Python, Banco de Dados e Cloud Architect);
+- mantém coerência com o objetivo final de carreira e usa a mesma foto do GitHub e do Dev.to, facilitando o reconhecimento da marca pessoal;
+- o campo de links funciona como uma central de portfólio, reunindo o Dev.to, GitHub  e linkedIn.
+
+**Pontos a melhorar:**
+
+- o campo "Nome" contém "Ellen Soares she/her", e uma palavra-chave como "Ellen Soares | Cloud & ADS" otimizaria a busca no Instagram;
+- a bio destaca C, Python e BD, enquanto o GitHub e o LinkedIn mostram uma stack de Front-end (HTML, TypeScript e React). Recomenda-se harmonizar as redes, citando as duas frentes de estudo;
+- falta indicar o foco de oportunidade (por exemplo, "Estudante de ADS e entusiasta de Cloud").
+
+#### Tipo de conteúdo publicado
+
+Há uma publicação inicial registrando os primeiros passos no desenvolvimento web. A imagem exibe o código HTML de uma página pessoal de apresentação no editor, e a legenda diz: "Nem parece que fez 1 mês que eu fiz minha primeira página em HTML... Simples, mas já foi um começo 🚀".
+
+- **Relevância:** alta para a proposta de *build in public*. Mostrar a evolução prática e a honestidade no aprendizado gera proximidade e engajamento genuíno.
+- **Legenda:** direta, positiva e com tom motivacional.
+- **Visual:** a captura de tela do editor mostra prática real. Em posts futuros, imagens em tela cheia, carrosséis com dicas de Cloud ou trechos de código em arte gráfica podem aumentar a legibilidade e o apelo visual.
+- **Frequência:** inicial, com apenas 1 publicação.
+
+#### Alinhamento com a área de carreira
+
+O alinhamento é alto. A bio explicita a meta de tornar-se Cloud Architect e destaca estudos de base (C, Python e Bancos de Dados). O link leva ao artigo sobre infraestrutura no Dev.to, e a publicação marca o ponto de partida do aprendizado em desenvolvimento. Conforme o PDI avançar, o perfil se beneficiará de posts sobre estudos de computação em nuvem, certificações e projetos práticos de infraestrutura.
+
+### 2.2.4 Análise em outras redes profissionais (Dev.to)
+
+- **Visão geral:** o perfil está diretamente alinhado ao objetivo em Cloud Computing e Arquitetura de Nuvem e transmite uma abordagem analítica sobre a infraestrutura por trás da tecnologia. Por ser recente (ingresso em 16/08/2026), o foco atual é construir autoridade técnica com artigos didáticos.
+- **Bio:** "Sou graduanda em Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), atualmente no 2º semestre." A bio é objetiva e padronizada com o GitHub e o LinkedIn, estabelecendo identidade clara como estudante de ADS. Para reforçar o apelo em Cloud, pode ser complementada com a menção aos estudos em Cloud Computing e à participação na Escola da Nuvem.
+- **Conteúdo:** o artigo "O lado físico da nuvem que ninguém te conta" (19/09/2026) aborda infraestrutura básica e redes (cabos submarinos, fibra óptica, *data centers* e conexões físicas). Faz conexões com os grandes provedores (AWS, Azure e Google Cloud) e com a rotina de desenvolvimento (`git push`). A abordagem é didática e profissional. Conforme o PDI avançar, a meta é incluir artigos sobre automação, redes, serviços de nuvem e segurança em infraestrutura.
+
+### 2.2.5 Plano de Carreira
+
+#### Curto prazo (6 a 12 meses)
+
+- **Objetivo:** conquistar uma oportunidade de estágio em Tecnologia (Cloud, DevOps ou Desenvolvimento) até o final de 2026 e evoluir para Desenvolvedora Júnior.
+- **Cargo a alcançar:** Desenvolvedora Júnior / Cloud Trainee.
+- **Experiências desejadas:** participar do desenvolvimento e do suporte de projetos reais; vivenciar o ciclo de entrega de software e infraestrutura; desenvolver, testar e publicar funcionalidades web simples; participar de *code reviews*, *pull requests* e controle de versão; corrigir bugs; trabalhar sob orientação de mentores; criar e manter documentação técnica simples no GitHub e no Dev.to.
+- **Hard skills:** lógica de programação, JavaScript, HTML/CSS, Python, Git/GitHub, SQL, APIs REST, Linux, fundamentos de redes e Cloud (AWS).
+- **Soft skills:** comunicação, organização, trabalho em equipe, visão analítica, proatividade e capacidade de aplicar feedbacks.
+
+#### Médio prazo (1 a 3 anos)
+
+- **Objetivo:** Desenvolvedora Júnior / Analista de Infra → DevOps Júnior → DevOps Pleno / Arquiteta de Soluções Júnior.
+- **Cargo a alcançar:** DevOps Pleno / Arquiteta de Soluções Júnior.
+- **Experiências desejadas:** desenvolver e manter aplicações e infraestruturas em produção; criar e otimizar pipelines de CI/CD (GitHub Actions); trabalhar com Docker; provisionar serviços na AWS (EC2, S3, RDS, IAM, VPC); automatizar processos com IaC (Terraform); monitorar métricas e logs e fazer *troubleshooting* em produção.
+- **Hard skills:** Linux avançado, redes, Docker, Kubernetes, CI/CD, Terraform, AWS, segurança em nuvem e Shell Script/Python.
+- **Soft skills:** comunicação, visão crítica, resolução de problemas, gestão de tempo e autonomia.
+
+#### Longo prazo (3 a 5 anos ou mais)
+
+- **Objetivo:** DevOps Pleno / Arquiteta Júnior → Arquiteta de Cloud (Cloud Architect).
+- **Cargo a alcançar:** Arquiteta de Cloud (Cloud Architect).
+- **Experiências desejadas:** liderar a concepção de arquiteturas escaláveis, seguras e resilientes na AWS; desenhar ambientes de alta disponibilidade, governança e otimização de custos (FinOps); definir padrões de arquitetura, segurança e conformidade; conectar necessidades de negócio a decisões técnicas; liderar tecnicamente times e apoiar executivos em estratégias de transformação para a nuvem; integrar IA à automação de arquiteturas e à análise preditiva de custos e recursos.
+- **Hard skills:** arquitetura cloud (AWS), Terraform, Kubernetes, segurança cibernética em nuvem, governança, CI/CD avançado, MBA em Cyber Security ou Cloud Architecture e inglês avançado.
+- **Soft skills:** liderança técnica, visão de negócios, visão crítica, tomada de decisão estratégica e comunicação técnica para executivos.
+
+**Viabilidade:** a sequência é coerente com o mercado (Capítulo 1), mas a chegada a DevOps Pleno ou Arquiteta Júnior em 1 a 3 anos, partindo de um estágio, é ambiciosa e depende de prática real em AWS e Linux. Recomenda-se revisar os prazos a cada semestre.
+
+### 2.2.6 PDI — Plano de Desenvolvimento Individual
+
+#### Desenvolvimento comportamental
+
+- **Comunicação:** trabalho em equipe, comunicação técnica, escrita de documentação clara e publicação de artigos técnicos no Dev.to.
+- **Organização:** gestão de tempo e prioridades para conciliar a graduação em ADS, o trabalho atual e 40 horas mensais de estudos focados.
+- **Resolução de problemas:** *troubleshooting*, análise crítica de erros em pipelines e diagnóstico de falhas de infraestrutura e código.
+- **Autonomia:** visão analítica para decisões técnicas, pesquisa proativa em documentações oficiais e uso de IA.
+- **Adaptabilidade:** aprendizado contínuo sobre tecnologias de nuvem, receptividade a feedbacks e rápida adequação a mudanças.
+- **Visão de negócios e liderança:** tradução de necessidades de negócio em soluções arquiteturais e condução técnica de projetos em grupo.
+
+#### Distribuição mensal de estudos (40 h/mês, cerca de 10 h por semana)
+
+| Bloco | Horas/mês | Atividades |
+|---|:---:|---|
+| Hard skills | 28 | Estudos teóricos e práticos (AWS, Linux, Docker, Terraform, Python/JS, SQL) |
+| Projetos práticos | 6 | Portfólio no GitHub, diagramas e arquiteturas em nuvem |
+| Soft skills | 6 | Escrita no Dev.to, atualização do LinkedIn, comunicação técnica e simulação de entrevistas |
+| **Total** | **40** | |
+
+#### Curto prazo (out/2026 a set/2027) — execução mês a mês
+
+Em cada mês do período, a carga é de 40 horas, distribuídas conforme os blocos abaixo.
+
+**Outubro de 2026**
+
+- Lógica de programação e Python (12 h): reforçar o raciocínio e a base em programação Back-end.
+- HTML/CSS/JavaScript + IA (12 h): aprimorar os projetos front-end (Jogo Pole Position e PetHouse).
+- Git/GitHub e estruturação de repositórios (8 h): subir projetos com README e boas práticas de commits.
+- Comunicação e organização (8 h): estruturar o perfil do LinkedIn e escrever 1 artigo no Dev.to.
+
+**Novembro de 2026**
+
+- SQL e bancos de dados (16 h): modelagem básica e consultas relacionais.
+- APIs REST e fundamentos de redes (10 h): criar e consumir APIs simples; noções de TCP/IP, DNS e HTTP.
+- Projeto prático e portfólio (6 h): integrar o banco de dados ao projeto acadêmico.
+- Visão crítica e resolução de problemas (8 h): analisar requisitos de negócio em projetos reais.
+
+**Dezembro de 2026**
+
+- Linux e linha de comando (12 h): dominar comandos essenciais para Cloud e DevOps.
+- Docker e conteinerização (10 h): criar imagens e executar aplicações em containers.
+- Documentação técnica (6 h): documentar a arquitetura dos projetos no GitHub.
+- Preparação para estágios (12 h): candidaturas focadas em grandes empresas e vagas remotas.
+
+**Janeiro a março de 2027**
+
+- Fundamentos de AWS, com curso na Udemy (20 h): EC2, S3, IAM e VPC.
+- Python aplicado à automação (8 h): scripts simples para nuvem.
+- Projeto prático em Cloud (6 h): hospedar uma aplicação web na AWS com o desenho da arquitetura.
+- Comunicação e feedback (6 h): simular entrevistas e pedir feedback sobre os projetos.
+
+**Abril a junho de 2027**
+
+- CI/CD (GitHub Actions) e IaC (Terraform) (24 h): pipelines de deploy automatizado e infraestrutura como código.
+- Atualização de portfólio e LinkedIn (10 h): publicar diagramas de arquitetura e artigos no Dev.to.
+- Inglês técnico, leitura e escrita (6 h): praticar leitura do AWS Well-Architected Framework.
+
+**Julho a setembro de 2027**
+
+- Preparatório para AWS Solutions Architect, com curso na Udemy (20 h): simulados e padrões de arquitetura de nuvem.
+- Entrevistas técnicas e comportamentais (10 h): preparação para posições Júnior, DevOps e Cloud.
+- Liderança e autonomia (10 h): desenhar soluções completas de nuvem para cenários hipotéticos.
+
+#### Médio prazo (out/2027 a set/2029)
+
+**Ano 2 (out/2027 a set/2028)**
+
+- **Foco:** consolidação da AWS e das bases de infraestrutura.
+- **Estudar:** prova AWS Solutions Architect Associate (SAA-C03); redes aplicadas à nuvem (TCP/IP, DNS, sub-redes e VPC); IAM e segurança; Linux avançado; Kubernetes básico; observabilidade (Prometheus/Grafana); Terraform aplicado a projetos reais.
+- **Entregáveis:** certificação SAA-C03; projeto de infraestrutura na AWS provisionado com Terraform e monitorado; diagramas de arquitetura publicados no GitHub e no Dev.to.
+
+**Ano 3 (out/2028 a set/2029)**
+
+- **Foco:** arquitetura cloud base.
+- **Estudar:** AWS avançado; desenho de soluções; Kubernetes; IaC com Terraform.
+- **Certificação/meta:** AWS Certified Solutions Architect – Professional.
+
+#### Longo prazo (out/2029 a set/2031)
+
+**Ano 4 (out/2029 a set/2030)**
+
+- **Segurança, redes e FinOps (1º semestre):** segurança em cloud, observabilidade, *disaster recovery* e otimização de custos. **Meta:** AWS Certified Security – Specialty.
+- **Multicloud, Azure (2º semestre):** Microsoft Azure, arquitetura híbrida e expansão de mercado. **Meta:** Microsoft Certified: Azure Solutions Architect Expert.
+
+**Ano 5 (out/2030 a set/2031)**
+
+- **Especialização e pós-graduação:** resiliência, automação, IA aplicada a Cloud e ingresso em MBA (FIAP ou Impacta). **Meta:** MBA em Cloud Architecture ou Cyber Security. O plano deve detalhar o custo e o tempo do MBA, que coincide com as certificações técnicas do período.
+- **Liderança e consolidação:** estratégia de TI, decisões técnicas, governança e mentoria. **Meta:** atuação como Arquiteta de Cloud (Cloud Architect).
+
+#### Indicadores de acompanhamento
+
+- Registro de 40 horas de estudo por mês.
+- Um artigo técnico no Dev.to por trimestre, no mínimo, além dos publicados nas datas do plano.
+- Projeto de Cloud hospedado na AWS, com diagrama, até março de 2027.
+- Certificação SAA-C03 concluída até dezembro de 2027.
+- Evolução do LinkedIn (seguidores, impressões e aparições em pesquisas) e do GitHub (repositórios com README e deploy).
+
+### 2.2.7 Feedback por pares recebido por Ellen
