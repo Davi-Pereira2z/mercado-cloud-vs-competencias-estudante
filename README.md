@@ -144,3 +144,34 @@ O mapeamento de vagas identifica como o mercado descreve as funções de DevOps 
 | Analista de Infraestrutura Cloud (perfil equivalente a Cloud Engineer) | MIGRATE Sistemas | Rio Grande do Sul | Setembro/2026 | Infraestrutura, Linux, Windows e redes; diferenciais: AWS, GCP ou Azure, Docker, Kubernetes, CI/CD, SQL e bancos de dados | Organização, trabalho em equipe, busca por desenvolvimento, perfil inovador e capacidade de enfrentar desafios | [MIGRATE Sistemas — Analista de Infraestrutura Cloud](https://vemsermigrater.vagas.solides.com.br/vaga/820567?utm_source=chatgpt.com) |
 | Arquiteto de Nuvem (Cloud Architect) — Multicloud | JAMC Consultoria | Não informado | Setembro/2026 | AWS, Azure ou Google Cloud; arquitetura de aplicações escaláveis, resilientes e seguras; redes; containers; *serverless*; armazenamento; bancos de dados; IAM; Docker; Kubernetes; Terraform; automação | Definir arquiteturas, apoiar migração e modernização, participar de discussões técnicas, elaborar documentação e diagramas de arquitetura | [JAMC — Arquiteto de Nuvem Multicloud](https://br.indeed.com/viewjob?jk=5e13ad051c4ee11d&utm_source=chatgpt.com) |
 
+#### Síntese do mapeamento
+
+O mapeamento demonstra que as três funções têm forte interseção de conhecimentos, mas focos diferentes:
+
+- **DevOps:** aparecem com frequência CI/CD, automação, containers, Kubernetes, IaC, monitoramento e *scripting*.
+- **Cloud Engineer:** predominam infraestrutura, redes, Linux, provedores de nuvem, segurança, containers e automação.
+- **Cloud Architect:** destacam-se arquitetura de soluções, multicloud, escalabilidade, resiliência, segurança, migração, microsserviços, documentação e tomada de decisões técnicas.
+
+Também é possível observar que as empresas frequentemente combinam funções. Termos como DevOps/Cloud Engineer, DevOps/Platform Engineer, SRE e Cloud Infrastructure Engineer aparecem nas pesquisas, o que indica que as fronteiras entre as funções variam conforme a estrutura e a necessidade de cada organização.
+
+---
+
+### 1.3 Mapeamento de Competências
+
+A partir da análise das funções e das vagas, as competências foram divididas em *hard skills* (conhecimentos técnicos) e *soft skills* (forma de trabalhar e de se comunicar).
+
+#### DevOps Engineer
+
+- **Hard skills:** Linux; Git e GitHub/GitLab; CI/CD; Jenkins, GitHub Actions, GitLab CI ou Azure DevOps; Docker; Kubernetes; Terraform e *Infrastructure as Code*; Ansible; AWS, Azure ou GCP; observabilidade e monitoramento; *scripting* com Python, Bash ou similares; redes; segurança e DevSecOps; noções de microsserviços e arquitetura *cloud-native*.
+- **Soft skills:** comunicação; trabalho em equipe; resolução de problemas; organização; proatividade; adaptabilidade; mentalidade de automação; melhoria contínua; capacidade de atuar entre desenvolvimento, infraestrutura e segurança.
+
+#### Cloud Engineer
+
+- **Hard skills:** AWS, Azure ou GCP; Linux; redes; computação em nuvem; armazenamento; bancos de dados; IAM e segurança; Docker; Kubernetes; Terraform ou outras ferramentas de IaC; monitoramento e observabilidade; automação; Git; fundamentos de arquitetura cloud; noções de CI/CD, microsserviços e FinOps.
+- **Soft skills:** comunicação clara; organização; trabalho colaborativo; resolução de problemas; autonomia; proatividade; aprendizagem contínua; adaptabilidade; capacidade de investigação e diagnóstico; noção de custo e de impacto no negócio.
+
+#### Cloud Architect
+
+- **Hard skills:** arquitetura de soluções em Cloud; AWS, Azure e/ou GCP; redes; segurança; IAM; containers e Kubernetes; microsserviços; computação distribuída; infraestrutura como código; alta disponibilidade; escalabilidade; *disaster recovery*; ambientes híbridos e multicloud; FinOps; *Cloud Adoption Frameworks*; *Well-Architected Framework*; diagramas e documentação de arquitetura; noções de Linux, Git, CI/CD e observabilidade.
+- **Soft skills:** comunicação técnica; visão sistêmica; levantamento de requisitos; tomada de decisões; capacidade de traduzir necessidades de negócio em soluções técnicas; negociação e alinhamento com diferentes equipes; organização; capacidade de apresentar e justificar decisões técnicas; liderança técnica; visão estratégica.
+
