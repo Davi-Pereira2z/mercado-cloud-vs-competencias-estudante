@@ -935,3 +935,9 @@ Nomes, códigos e requisitos devem ser conferidos nas páginas oficiais antes da
 **Viabilidade:** a carga de cerca de 3 horas diárias é a maior do grupo e sustenta as metas de curto prazo, como redes e Linux em 0 a 3 meses, em paralelo a Git e Python. O principal risco não é o tempo, e sim a falta de entregáveis intermediários: o PDI define prazos por faixa, mas não marcos mensais, o que dificulta verificar o progresso.
 
 ### 2.3.7 Feedback por pares recebido por Samuel
+
+#### Feedback de Davi Pereira de Oliveira Silva
+
+- **Perfis digitais:** o README organiza bem as tecnologias por nível de maturidade, evitando comunicar domínio prematuro. O crescimento de seguidores e de contribuições é positivo, mas a base de repositórios públicos ainda é pequena. A seção de Competências do LinkedIn não lista itens já praticados, como C, SQL/Banco de Dados e Make.
+- **Plano de Carreira e PDI:** sequência bem definida até Cloud Architect. A disponibilidade declarada, de cerca de 3 horas por dia, é a maior do grupo e dá folga para cumprir as metas de curto prazo. Como o PDI usa prazos por faixa (0–3 e 3–12 meses) e não marcos mensais, convém traduzir essa carga em entregáveis mensais verificáveis.
+- **Sugestões de melhoria:** registrar as horas de estudo realizadas e transformá-las em marcos mensais; atualizar as Competências do LinkedIn; produzir conteúdo no Dev.to sobre o projeto de automação com IA já concluído.
