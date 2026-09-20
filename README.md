@@ -702,3 +702,236 @@ Em cada mês do período, a carga é de 40 horas, distribuídas conforme os bloc
 - **Sugestões de melhoria:** aumentar a frequência de publicações no Instagram e no Dev.to; reforçar na seção de Competências do LinkedIn o que já foi praticado, vinculando React, TypeScript e Git/GitHub aos projetos PetHouse e Corrida Lendária na seção de destaques; antecipar um primeiro contato prático com AWS ou Linux.
 
 ---
+
+## 2.3 Samuel Guimarães da Silva
+
+### 2.3.1 Análise do perfil no GitHub
+
+#### Identificação do perfil
+
+- **Usuário:** [Samuel-Guimaraes345](https://github.com/Samuel-Guimaraes345) (nome de exibição: Samuel Guimarães).
+- **Redes vinculadas no perfil:** LinkedIn (`in/samuelguimar%C3%A3es02` (forma como o GitHub exibe o "ã")), Instagram (`samuel_guimaraes_silva_`) e Dev.to (`dev.to/samuel_guimaraes`). Antes da otimização, o perfil exibia apenas o LinkedIn. Reunir as redes no GitHub facilita a navegação de recrutadores entre as plataformas e reforça a coerência do posicionamento profissional.
+- **Conteúdo do README.md do perfil:**
+  - **Apresentação:** saudação ("Olá, eu sou Samuel Guimarães!") com três destaques: estudante de Análise e Desenvolvimento de Sistemas (ADS); formação direcionada a Cloud Computing, com interesse em automação, inteligência artificial e tecnologia; e objetivo de longo prazo de ser Cloud Architect.
+  - **Sobre mim:** trajetória construída pela faculdade, por estudos independentes e por projetos acadêmicos. Cita contato com Python, C, banco de dados, desenvolvimento web, automação de processos, integração de sistemas e IA, e o direcionamento atual para redes, Linux, nuvem, segurança, automação e infraestrutura.
+  - **Tecnologias e conhecimentos**, em *badges* separados por nível de maturidade: *já tive contato* (Python, C, Git, GitHub e Make); *em aprendizado, foco atual* (Linux e AWS); *planejado* (Terraform e Docker); e *também em estudo* (redes de computadores, segurança em cloud, banco de dados e inglês técnico). Um aviso no próprio README esclarece que as tecnologias em aprendizado ainda estão em desenvolvimento. Essa separação evita apresentar como domínio o que ainda está em estudo.
+  - **Trajetória de estudos:** Fundamentos de TI → Redes + Linux → Git & GitHub → AWS + Segurança/IAM → Terraform (IaC) → Docker + CI/CD → Kubernetes + Observabilidade → Arquitetura de Cloud → Cloud Architect.
+  - **Projetos em destaque:** (1) *Automação com Make e Inteligência Artificial*, projeto acadêmico em que um formulário alimenta o Google Sheets, um *Router* com filtro envia os dados à API do Gemini (resposta em JSON), o resultado gera um documento no Google Docs a partir de um modelo e o envia por Gmail, com uma rota alternativa (*fallback*) que envia um e-mail quando a condição principal não é atendida; (2) *Jogo 2D para navegador*, projeto acadêmico de desenvolvimento web interativo feito com a abordagem de *Vibe Coding* (apoio de ferramentas de IA).
+  - **Objetivos profissionais:** curto prazo, primeiros laboratórios práticos na AWS, melhor documentação dos projetos no GitHub e certificação AWS Cloud Practitioner (depois Solutions Architect Associate); médio prazo, primeira oportunidade profissional em tecnologia ou nuvem; longo prazo, atuar como Cloud Architect, projetando soluções seguras, escaláveis, resilientes e com custos otimizados. Os horizontes estão alinhados ao Plano de Carreira (seção 2.3.5).
+  - **Contato:** links para GitHub e LinkedIn e a frase final "Construindo minha carreira em tecnologia, um projeto de cada vez."
+
+#### Repositórios públicos
+
+O perfil possui **2 repositórios públicos** (samurai-no-michi e o repositório de perfil Samuel-Guimaraes345). A conta tem 3 repositórios no total, e o terceiro é privado e não foi incluído na análise. Antes da otimização do perfil, a conta tinha 2 repositórios (1 público e 1 privado). O repositório **fixado (pinado)** é o *samurai-no-michi*, que também é o **repositório com mais estrelas** (3).
+
+| Repositório | Visibilidade | Fixado | Linguagem | Estrelas | Descrição |
+|---|---|:---:|---|:---:|---|
+| samurai-no-michi | Público | Sim | HTML | 3 | Jogo RPG 2D de ação para navegador, inspirado em *Zelda: A Link to the Past*, com temática samurai. Desenvolvido em HTML, CSS e JavaScript. |
+| Samuel-Guimaraes345 | Público | Não | — | 1 | Repositório especial de perfil. Armazena o README.md com apresentação, *badges* de tecnologias, fluxo do projeto de automação, trajetória de estudos e objetivos de carreira. |
+
+Antes da otimização, o perfil não tinha nenhum repositório fixado: a seção exibia apenas "Repositórios populares", com o repositório do jogo (2 estrelas na época).
+
+#### Evolução de seguidores e engajamento
+
+| Métrica | Antes | Depois | Variação |
+|---|:---:|:---:|:---:|
+| Seguidores | 6 | 13 | +117% |
+| Seguindo | 12 | 38 | +217% |
+| Contribuições nos últimos 12 meses | 48 | 61 | +27% |
+| Repositórios públicos | 1 | 2 | +1 |
+
+- **Tendência:** a base de seguidores mais que dobrou no período, acompanhando o aumento de perfis seguidos (colegas de turma e profissionais de TI), o que indica busca ativa de networking na comunidade técnica.
+- **Engajamento:** a base ainda é pequena e o crescimento é orgânico. O sinal de interesse da comunidade é inicial: o repositório do jogo recebeu 3 estrelas.
+- **Consistência de commits:** o gráfico de contribuições mostra atividade concentrada nas últimas semanas (agosto e setembro de 2026), com um registro isolado em abril. O ponto a evoluir é transformar essa atividade em uma rotina regular de commits.
+
+### 2.3.2 Análise do perfil no LinkedIn
+
+#### Cargo-alvo e stack
+
+- **Cargo almejado:** Cloud Architect (seção "Sobre": "chegar à atuação como Cloud Architect"), com Cloud Engineer como etapa intermediária prevista no Plano de Carreira. O perfil está marcado como "Buscando emprego" em São Paulo, SP (informação visível apenas ao titular).
+- **Área de atuação:** Tecnologia da Informação, com foco em Cloud Computing (em formação) e automação de processos.
+- **Nível de experiência:** estudante do 2º semestre de ADS na Unicid, sem experiência profissional cadastrada.
+- **Competências listadas:** Automação de processos, Integração de sistemas, Engenharia de Prompt, GitHub e Python (todas vinculadas à Unicid).
+- **Tecnologias citadas na seção "Sobre":** Python, Engenharia de Prompt e aplicações em IA, UI/UX, prototipagem de sistemas, automação com Make, Google Sheets, Gemini, JSON, Google Docs, Gmail, *Vibe Coding* e GitHub. Redes, Linux, infraestrutura e serviços de nuvem aparecem como direção de formação ("direcionando minha formação para Cloud Computing"), e não como competência já dominada.
+- **Análise crítica:** o perfil comunica com honestidade o que já foi praticado e o que ainda será estudado. O ponto de melhoria é que a lista de Competências não inclui itens já praticados e citados em publicações e projetos, como C, SQL/Banco de Dados e Make. Cloud, Linux e Redes só devem entrar nas competências à medida que houver prática comprovada.
+
+#### Headline profissional
+
+| Versão | Texto |
+|---|---|
+| Anterior | Estudante de Análise e Desenvolvimento de Sistemas \| Python \| Automação \| Inteligência Artificial |
+| Atualizada | Estudante de ADS \| Cloud Computing em formação \| Python \| Automação |
+
+- **Clareza e direcionamento:** ao trocar termos genéricos por "Cloud Computing em formação", o título passou a comunicar o objetivo de carreira sem exagerar o nível atual, o que é honesto e adequado a quem ainda não tem experiência profissional.
+- **Palavras-chave:** o título contém termos usados em buscas de recrutadores (ADS, Cloud Computing, Python, Automação). "Inteligência Artificial" saiu do título, mas permanece na seção "Sobre" e nas Competências (Engenharia de Prompt).
+- **Seção "Sobre":** contextualiza a trajetória acadêmica e destaca dois projetos reais: a automação em Make integrada a formulário, Google Sheets, Gemini, JSON, Google Docs e Gmail (geração e envio de planos alimentares personalizados) e o jogo 2D para navegador feito com IA generativa (*Vibe Coding*). Também apresenta o objetivo de evoluir para a arquitetura de nuvem e traz o link do GitHub.
+- **Ponto de melhoria:** incluir "AWS" na headline quando o estudo prático começar, já que a AWS é a plataforma principal do plano.
+
+#### Crescimento da rede
+
+| Métrica | Inicial | Atual | Variação |
+|---|:---:|:---:|:---:|
+| Conexões | 12 | 38 | +217% |
+| Seguidores | 12 | 38 | +217% |
+
+- **Tendência:** crescimento contínuo e orgânico, por meio de colegas de faculdade e profissionais de Tecnologia, Dados e Infraestrutura. O próximo passo é ampliar as conexões com profissionais e recrutadores de Cloud, alinhados ao cargo-alvo.
+
+#### Atividade e engajamento
+
+| Indicador | Captura anterior | Captura atual |
+|---|:---:|:---:|
+| Visualizações do perfil | 10 | 11 |
+| Impressões das publicações | 85 | 93 |
+| Aparições em resultados de pesquisa | — | 2 |
+
+- **Publicação própria:** post "Meus primeiros estudos com a linguagem C", sobre Algoritmos e Pensamento Computacional no 2º semestre, com exemplos de código (calculadora de IMC e menu com `switch/case`). Teve 2 reações na captura.
+- **Comentários e interações:** comentário encorajador no post do colega João Pedro Theodoro, que também pratica C, reforçando a importância dos fundamentos; e comentário no post de Jefferson Santos (Líder de Dados & IA) sobre ferramentas gratuitas para praticar SQL (LeetCode, HackerRank, SQLBolt, DataLemur, StrataScratch e W3Schools), informando que está aprofundando Banco de Dados e SQL no semestre.
+- **Avaliação:** a presença é ativa e em tom profissional, focada em aprendizado, com interação em posts de pares e de um profissional da área de dados. A frequência de publicação ainda é baixa (uma publicação própria), e o conteúdo (C e SQL) tem pouca relação direta com Cloud, o que sugere publicar sobre os laboratórios de AWS, Linux e redes a partir do semestre.
+
+### 2.3.3 Análise do perfil no Instagram
+
+- **Perfil:** @samuel_guimaraes_silva_ · Samuel Guimarães da Silva.
+- **Métricas:** 1 publicação, 3 seguidores e 27 seguindo.
+- **Bio:** "Estudante de ADS (2/4) | Cloud Computing Python | Automações no Make | IAs Rumo a Cloud Architect". O trecho "ADS (2/4)" indica o 2º de 4 semestres do curso.
+- **Posicionamento:** a bio informa formação, foco em Cloud Computing, competências atuais e objetivo de carreira de forma direta. A foto é formal e profissional, e o perfil mantém o mesmo posicionamento do LinkedIn e do GitHub.
+- **Conteúdo publicado:** uma imagem de código Python limpo e estruturado, referente a um pipeline de ETL/transformação de dados de vendas (cálculo de desconto e padronização de dados). A legenda apresenta o autor, o foco em Python e Cloud e a proposta de compartilhar projetos, aprendizados e desafios, com hashtags (#Python #Programação #CloudComputing #ADS #Tecnologia #Iniciante #Estudos).
+- **Engajamento:** no momento da captura, a publicação acabara de ser feita e ainda não tinha curtidas nem comentários.
+- **Avaliação:** o perfil adota o formato *build in public*, coerente com a área, e tem alinhamento claro com Cloud. Contudo, a base de seguidores é muito pequena e há apenas uma publicação, e para consolidar o posicionamento é necessária regularidade de conteúdo.
+
+### 2.3.4 Análise em outras redes profissionais (Dev.to)
+
+- **Perfil:** Samuel Guimarães · São Paulo, Brasil · ingresso em 16/08/2026.
+- **Bio:** estudante de ADS que aprende na prática, com jogos em HTML, CSS e JavaScript, automações em Python e exploração de análise de dados financeiros.
+
+| Métrica | Antes | Depois |
+|---|:---:|:---:|
+| Publicações | 0 | 1 |
+| Seguidores | 2 | 3 |
+| Seguindo | 1 | 34 |
+| Comentários escritos | 0 | 0 |
+| Tags seguidas | 0 | 0 |
+| Visualizações | — | menos de 500 no painel; menos de 25 na publicação |
+| Reações / comentários no post | — | 0 / 0 |
+
+- **Artigo publicado (19/09/2026):** *Tirando o Projeto do Localhost: Como Publicar Sua Primeira Página Web Gratuitamente no GitHub Pages* (3 min de leitura; tags #githubpages, #desenvolvimento web, #iniciantes e #git, como exibidas na interface em português).
+- **Qualidade do conteúdo:**
+  - *Didática:* voltado a iniciantes, parte de um problema real (projeto preso na máquina local) até a solução prática.
+  - *Passo a passo técnico:* pré-requisitos claros (`index.html` na raiz, conta no GitHub, Git instalado), comandos em bloco de código (`git init`, `git add .`, `git commit`, `git push`, configuração de `user.name` e `user.email`), aviso sobre autenticação por *Personal Access Token* ou SSH e o caminho na interface do GitHub (Settings > Pages > Deploy from a branch > main).
+  - *Chamada para ação:* valoriza a prática no início da faculdade para criar portfólio, entender *deployment* e consolidar o Git, e encerra com uma pergunta para a comunidade.
+- **Avaliação:** o conteúdo é bom para o nível, mas o artigo foi publicado há pouco tempo e ainda não tem reações nem comentários. Um ponto de melhoria de engajamento é que o perfil segue 34 usuários, mas ainda não escreveu comentários nem segue tags, e comentar em posts de outros autores tende a gerar mais visibilidade. Como o tema (GitHub Pages) se conecta a portfólio e hospedagem, ele pode ser o primeiro passo para publicar futuramente sobre Cloud (por exemplo, hospedagem estática na AWS).
+
+### 2.3.5 Plano de Carreira
+
+#### Posicionamento atual
+
+| Aspecto | Situação |
+|---|---|
+| Formação | Análise e Desenvolvimento de Sistemas — 2º semestre |
+| Área de direcionamento | Cloud Computing |
+| Cargo-alvo de longo prazo | Cloud Architect / Arquiteto de Nuvem |
+| Experiência profissional | Ainda não possui experiência profissional em tecnologia |
+| Conhecimentos atuais | Python básico, C em formação, Git/GitHub, automação e projetos acadêmicos |
+| Projetos práticos | Automação com Make, Google Sheets, Gemini, JSON, Google Docs e Gmail; jogo 2D para navegador |
+| Próxima etapa | Construir fundamentos de redes, Linux e Cloud e buscar a primeira experiência ou estágio |
+| Disponibilidade de estudo | Aproximadamente 3 horas por dia (cerca de 21 horas por semana) |
+| Preferência de trabalho | Remoto, com abertura para híbrido |
+
+**Objetivo de carreira:** construir uma carreira técnica em Cloud Computing, desenvolvendo conhecimentos em redes, Linux, nuvem, segurança, automação, *Infrastructure as Code*, containers, observabilidade, custos e arquitetura. No longo prazo, atuar como Cloud Architect, participando do desenho de arquiteturas seguras, resilientes, escaláveis e adequadas aos requisitos técnicos e financeiros do negócio.
+
+**Posicionamento recomendado:** apresentar Cloud Computing como direção de formação, sem declarar domínio profissional de AWS, Terraform, Docker ou Kubernetes enquanto essas tecnologias estiverem em aprendizagem.
+
+#### Curto prazo (6 a 12 meses)
+
+- Estudar fundamentos de redes e Linux.
+- Estudar Cloud Computing e iniciar a AWS em projetos pequenos.
+- Aprofundar Git/GitHub e documentação técnica.
+- Continuar com Python básico e iniciar Bash gradualmente.
+- Aprender fundamentos de IAM e segurança em Cloud.
+- Desenvolver pelo menos um projeto de Cloud e documentá-lo no GitHub.
+- Iniciar o inglês técnico.
+- Considerar a certificação AWS Certified Cloud Practitioner (CLF-C02) após consolidar os fundamentos.
+- Preparar currículo, LinkedIn e GitHub para buscar estágio ou a primeira oportunidade.
+
+#### Médio prazo (1 a 3 anos)
+
+- Buscar estágio ou primeira oportunidade em tecnologia, infraestrutura, Cloud ou área relacionada.
+- Aprofundar a AWS e a arquitetura básica.
+- Aprender Terraform e *Infrastructure as Code* (IaC).
+- Desenvolver Docker e CI/CD.
+- Aprofundar segurança, IAM e redes.
+- Estudar Kubernetes depois de consolidar Docker e Cloud.
+- Desenvolver observabilidade: métricas, logs e rastreamento.
+- Estudar alta disponibilidade, backup e recuperação de desastres.
+- Introduzir FinOps e otimização de custos.
+- Construir um portfólio progressivamente mais completo.
+- Considerar a certificação AWS Certified Solutions Architect – Associate (SAA-C03) quando houver base suficiente.
+
+#### Longo prazo (3 a 5 anos ou mais)
+
+- Projetar arquiteturas Cloud mais complexas.
+- Aprofundar segurança, confiabilidade, escalabilidade e performance.
+- Aplicar princípios do AWS Well-Architected Framework.
+- Trabalhar com governança, observabilidade, resiliência e otimização de custos.
+- Analisar *trade-offs* entre custo, segurança, disponibilidade, performance e complexidade.
+- Aprofundar Kubernetes, automação e práticas de plataforma conforme a necessidade profissional.
+- Desenvolver a comunicação técnica para apresentar decisões arquiteturais.
+- Buscar posições como Cloud Engineer, Cloud/Solutions Architect ou equivalentes, conforme a experiência.
+
+### 2.3.6 PDI — Plano de Desenvolvimento Individual
+
+#### Metas técnicas
+
+| Competência | Objetivo | Prazo | Indicador |
+|---|---|:---:|---|
+| Redes | TCP/IP, DNS, HTTP/HTTPS, sub-redes, roteamento e conceitos para Cloud | 0–3 meses | Curso + exercícios |
+| Linux | Comandos, permissões, processos, serviços e administração básica | 0–3 meses | Prática + laboratório |
+| Cloud/AWS | Conhecer fundamentos e aplicar em projeto pequeno | 3–12 meses | Projeto no GitHub |
+| Git/GitHub | *Branches*, commits, *pull requests* e documentação | 0–6 meses | Histórico e READMEs |
+| Python/Bash | Manter Python básico e iniciar scripts Bash | 0–12 meses | Scripts funcionais |
+| Segurança/IAM | Identidades, permissões, menor privilégio e segurança de rede | 6–18 meses | Laboratórios |
+| Terraform/IaC | Declarar e versionar infraestrutura | 6–18 meses | Projeto IaC |
+| Docker | Containers, imagens, volumes e redes | 6–18 meses | Aplicação containerizada |
+| CI/CD | Conhecer pipelines e automação de deploy | 1–2 anos | Pipeline funcional |
+| Kubernetes | Orquestração, após consolidar Docker e Cloud | 1–2 anos | Laboratório documentado |
+| Observabilidade | Métricas, logs, rastreamento e monitoramento | 1–3 anos | Projeto monitorado |
+| FinOps | Custos, desperdícios e custo/performance | 1–3 anos | Análise de custos |
+| Arquitetura | Arquitetura e *trade-offs* técnicos | 2–5+ anos | Diagramas e estudos |
+| Inglês técnico | Leitura e vocabulário para documentação e oportunidades | Contínuo | Horas/mês + materiais |
+
+#### Metas comportamentais
+
+| Competência | Ação | Indicador |
+|---|---|---|
+| Comunicação | Explicar projetos e decisões técnicas | Apresentações e documentações |
+| Trabalho em equipe | Participar de projetos colaborativos com Git | *Pull requests* e entregas |
+| Resolução de problemas | Registrar problemas e soluções | Diário técnico/README |
+| Aprendizado contínuo | Manter rotina de estudo de cerca de 3 horas por dia | Horas de estudo por mês |
+| *Networking* | Manter LinkedIn/GitHub e interações relevantes | Conexões e interações |
+| Visão de negócio | Relacionar decisões a custo, risco e necessidade | Análises de arquitetura |
+
+#### Certificações
+
+Certificações complementam a experiência prática e não substituem projetos ou experiência profissional.
+
+- **AWS Certified Cloud Practitioner (CLF-C02):** consolidar fundamentos, ao final do curto prazo.
+- **AWS Certified Solutions Architect – Associate (SAA-C03):** objetivo posterior, com base e experiência compatíveis.
+- **HashiCorp Certified: Terraform Associate (004):** possibilidade após estudar Terraform e IaC.
+- **Certificações avançadas de arquitetura:** somente após experiência profissional relevante.
+
+Nomes, códigos e requisitos devem ser conferidos nas páginas oficiais antes da inscrição (Cloud Practitioner, Solutions Architect – Associate e Terraform Associate).
+
+#### Indicadores de acompanhamento
+
+- Cerca de 3 horas de estudo por dia (aproximadamente 21 horas por semana ou 90 horas por mês), com registro das horas realizadas.
+- Cursos e módulos concluídos por semestre.
+- Projetos práticos publicados e documentados no GitHub, com READMEs completos.
+- Tecnologias efetivamente utilizadas em projetos.
+- Evolução do LinkedIn e do GitHub.
+- Participação em projetos colaborativos.
+- Candidaturas a oportunidades compatíveis com o nível atual.
+- Evolução do inglês técnico.
+- Revisão do PDI a cada semestre.
+
+**Viabilidade:** a carga de cerca de 3 horas diárias é a maior do grupo e sustenta as metas de curto prazo, como redes e Linux em 0 a 3 meses, em paralelo a Git e Python. O principal risco não é o tempo, e sim a falta de entregáveis intermediários: o PDI define prazos por faixa, mas não marcos mensais, o que dificulta verificar o progresso.
+
+### 2.3.7 Feedback por pares recebido por Samuel
