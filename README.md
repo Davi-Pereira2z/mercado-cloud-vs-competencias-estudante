@@ -213,3 +213,211 @@ Assim, a formação para atuar com Cloud Computing não depende do domínio de u
 Este capítulo analisa o posicionamento profissional dos estudantes de Análise e Desenvolvimento de Sistemas nas plataformas **GitHub, LinkedIn, Instagram, Dev.to e Medium**. As métricas e capturas de tela foram coletadas entre agosto e setembro de 2026, e as comparações de "antes" e "depois" referem-se a capturas feitas nesse período. Cada seção individual segue a mesma estrutura: GitHub, LinkedIn, Instagram, outras redes profissionais, Plano de Carreira, Plano de Desenvolvimento Individual (PDI) e feedback por pares.
 
 ---
+
+## 2.1 Davi Pereira de Oliveira Silva
+
+### 2.1.1 Análise do perfil no GitHub
+
+#### Identificação do perfil
+
+- **Usuário:** [Davi-Pereira2z](https://github.com/Davi-Pereira2z)
+- **Descrição do README:** o perfil apresenta Davi como estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento Back-end e interesse em DevOps, automação, infraestrutura e Cloud Computing. O README relaciona conhecimentos e estudos em Python, C, lógica de programação, modelagem de dados, bancos de dados relacionais, Git e desenvolvimento Back-end. O perfil também demonstra uma evolução de interesse para infraestrutura, DevOps e computação em nuvem, acompanhando o objetivo de construir carreira na área de tecnologia.
+
+#### Repositórios públicos
+
+O perfil possui **4 repositórios públicos**. Os três de maior destaque são analisados a seguir. O repositório com mais estrelas é o **Sistema-prever-tempo** (5 estrelas), seguido do **Quiz-feito-utilizando-Python** (2 estrelas).
+
+**1. Sistema-prever-tempo — 5 estrelas**
+
+- **Descrição:** aplicação em Python executada no terminal que consulta informações meteorológicas de uma localização informada pelo usuário. Utiliza a WeatherAPI para obter dados em tempo real.
+- **Funcionalidades:** solicita uma localização; consulta a temperatura atual; exibe a condição climática; apresenta as temperaturas máxima e mínima estimadas para o dia; organiza os dados da API para exibição no terminal.
+- **Tecnologias e conceitos:** Python; `requests` (requisições HTTP); `python-dotenv` e `os` (carregamento da chave da API a partir de variáveis de ambiente); JSON (extração e tratamento dos dados); WeatherAPI.
+- **Funcionamento:** o programa usa a localização e a chave da API para fazer duas requisições à WeatherAPI, uma para a temperatura atual e outra para a previsão do dia. Os dados retornam em JSON e são convertidos em informações compreensíveis. A chave da API fica em um arquivo `.env`, evitando que a credencial fique exposta no código-fonte.
+- **Aplicação prática:** demonstra a integração de Python com serviços externos, por meio de APIs REST e requisições HTTP, e o cuidado com a proteção de credenciais.
+
+**2. Quiz-feito-utilizando-Python — 2 estrelas**
+
+- **Descrição:** jogo de perguntas e respostas no terminal, desenvolvido em Python para praticar lógica de programação. O jogador responde a 6 questões de programação com quatro alternativas (A, B, C e D) e recebe pontos de acordo com os acertos.
+- **Funcionalidades:** validação das respostas; repetição da entrada quando a alternativa é inválida; armazenamento das respostas; comparação com um gabarito predefinido; pontuação; resumo de desempenho ao final.
+- **Conceitos aplicados:** variáveis e listas; funções; estruturas `for`, `while` e `if/else`; `input()` e `print()`; `try/except` para entradas inválidas; manipulação de strings (`.upper()`).
+- **Funcionamento:** as questões e alternativas ficam em listas agrupadas em uma lista principal, percorrida automaticamente. A entrada é validada para aceitar somente A, B, C ou D. Ao final, as respostas são comparadas ao gabarito, somando 1 ponto por acerto.
+- **Aplicação prática:** demonstra fundamentos de Python em uma aplicação interativa, com estruturas de controle, entrada e saída de dados e tratamento de erros.
+
+**3. mercado-cloud-vs-competencias-estudante**
+
+- **Descrição:** projeto acadêmico que analisa o mercado de Cloud Computing e as competências exigidas de estudantes e profissionais de tecnologia, relacionando as demandas do mercado às competências técnicas e comportamentais necessárias.
+- **Temas abordados:** Cloud Computing, Cloud + IA, DevOps, Kubernetes, IaC, FinOps, Observabilidade, SRE, Cloud Engineer, Cloud Architect e Platform Engineer.
+- **Objetivo:** compreender a evolução do mercado de Cloud e os conhecimentos valorizados pelas empresas, relacionando-os à formação de estudantes de tecnologia.
+
+#### Evolução de seguidores
+
+Na comparação entre duas capturas do perfil, o número de **seguidores passou de 3 para 12** (aumento de 9, equivalente a **+300%**) e o de **usuários seguidos passou de 6 para 46** (aumento de 40, cerca de **+667%**).
+
+- **Tendência:** a base de seguidores quadruplicou e a rede de contatos foi ampliada de forma significativa, o que indica busca ativa de networking com outros desenvolvedores.
+- **Engajamento:** os projetos receberam reconhecimento em forma de estrelas (5 e 2), sinal inicial de interesse da comunidade.
+- **Evolução do conteúdo:** os primeiros projetos concentram-se em fundamentos de programação (Python), e o trabalho mais recente aborda Cloud Computing, DevOps e competências exigidas pelo mercado. Isso acompanha a evolução do perfil profissional, que passou de Back-end e aprendizado de programação para uma trajetória que inclui DevOps, automação, infraestrutura e Cloud.
+
+### 2.1.2 Análise do perfil no LinkedIn
+
+#### Cargo-alvo e stack
+
+O perfil busca estágio em Desenvolvimento de Software, com ênfase em Back-end, e declara a intenção de evoluir para DevOps e Cloud Computing. A stack declarada é Python, C, Git/GitHub, lógica de programação e modelagem de bancos relacionais, com HTML semântico, Scrum e *Prompt Engineering* entre as competências. O nível é de entrada: graduando em ADS (Unicid), com experiência em projetos práticos e estudos.
+
+#### Headline profissional
+
+> Estudante de ADS | Foco em Desenvolvimento Back-end | Python | Git/GitHub | Modelagem de Banco de Dados | Interesse em DevOps
+
+A headline é clara, bem estruturada e traz palavras-chave relevantes, coerentes com o restante do perfil. Como pontos de melhoria, ela não informa que o objetivo é um estágio, usa termos fracos ("Foco em", "Interesse em") e omite Cloud e SQL, muito buscados em vagas júnior.
+
+#### Crescimento da rede
+
+A rede cresceu rapidamente: em agosto eram 47 conexões e, na captura mais recente, 121 (mais que o dobro em cerca de um mês). O perfil soma 123 seguidores, e o número subiu 17% na última semana (cerca de 18 pessoas novas). As visualizações das publicações passaram de aproximadamente 15 na semana anterior para 448, principalmente por causa do post sobre a Escola da Nuvem. Apesar do bom ritmo, a rede ainda é pequena, e a proximidade entre o número de seguidores (123) e o de conexões (121) sugere alcance ainda restrito à rede direta. O perfil apareceu em apenas 9 pesquisas na última semana, ou seja, poucos recrutadores o encontram por conta própria.
+
+#### Atividade e engajamento
+
+Foram analisadas 5 publicações, com frequência irregular: 4 posts entre 3 e 4 meses atrás, um intervalo e 1 post há 6 dias. Na semana da captura, não houve comentários em posts de outras pessoas. Três posts alinham-se ao cargo-alvo (Python, Git/GitHub e Escola da Nuvem), enquanto os de comunicação e atendimento ao cliente são genéricos. O engajamento é baixo, com 1 a 3 reações nos posts antigos, exceto o da Escola da Nuvem, que teve 24 reações, 2 comentários e 418 impressões. A presença está em construção: houve melhora recente, mas ainda falta consistência.
+
+### 2.1.3 Análise do perfil no Instagram
+
+**Resumo:** o perfil tem posicionamento claro e coerente com a carreira em Back-end. O conteúdo publicado é bem alinhado, mas a conta é nova e o alcance ainda é inicial.
+
+#### Bio
+
+O perfil é **@davi_pereira.ol**, com o nome "Davi Pereira", 1 publicação, 4 seguidores e 2 seguindo. A bio diz: "Estudante de ADS, back-end, estudando C, bancos de dados e modelagem. Rumo ao DevOps". Há um link para o GitHub e mais um link.
+
+- **Pontos fortes:** é curta e direta (quem é, o que estuda e para onde quer ir); tem palavras-chave da área (back-end, banco de dados, modelagem e DevOps); combina com a headline do LinkedIn e usa a mesma foto, o que facilita o reconhecimento; o link do GitHub funciona como portfólio.
+- **Pontos a melhorar:** não informa que o objetivo é estágio (uma chamada como "Buscando estágio em Back-end" ajudaria); Python e Git/GitHub aparecem no LinkedIn, mas não no Instagram; o campo "Nome" contém apenas "Davi Pereira", e algo como "Davi Pereira | Back-end" facilitaria a busca.
+
+#### Tipo de conteúdo publicado
+
+Há uma única publicação, com os requisitos funcionais do cliente de uma barbearia (cadastro, catálogo, agendamento, pagamento, lembretes e cancelamento). A legenda explica as regras de negócio, os atores e os relacionamentos que orientam o modelo lógico do banco de dados.
+
+- **Relevância:** alta. O post mostra um projeto próprio e o raciocínio por trás dele, o que passa mais credibilidade do que repostar conteúdo de terceiros.
+- **Legenda:** bem escrita, com abertura que chama atenção e uma pergunta ao final para gerar comentários.
+- **Visual:** é preciso conferir se o texto da imagem fica legível no celular. Se a imagem for longa e com letra pequena, dividi-la em carrossel resolve.
+- **Frequência:** ainda não é possível avaliar, pois há só um post.
+
+#### Alinhamento com a área de carreira
+
+O alinhamento é alto: bio, foto, link e post apontam para Back-end, banco de dados e DevOps. Falta mostrar a parte de Cloud, presente no LinkedIn (a aprovação na Escola da Nuvem), e um pouco de Python.
+
+### 2.1.4 Análise em outras redes profissionais (Dev.to e Medium)
+
+#### Dev.to
+
+- **Visão geral:** o perfil está bem alinhado ao objetivo em Cloud e transmite o foco em Back-end. Falta mostrar o Back-end no conteúdo, já que existe apenas um artigo publicado.
+- **Bio:** clara, com tom coerente com o LinkedIn e o Instagram. Não informa que o objetivo é um estágio, e o campo "Available for" é o local adequado para isso.
+- **Conteúdo:** o artigo "O que é Cloud Computing?" (13/09) usa tags adequadas para iniciantes e para o público brasileiro e recebeu 1 comentário. Ainda não há conteúdo sobre Python, C, bancos de dados ou projetos, que são o centro do objetivo de estágio em Back-end.
+
+#### Medium
+
+- **Visão geral:** perfil claro e coerente com o objetivo, mas no início, com um único artigo. Como no Dev.to, o conteúdo mostra Cloud, e o Back-end aparece só na bio.
+- **Bio:** curta, direta e alinhada ao LinkedIn, ao Instagram e ao Dev.to, com as palavras-chave da área (Back-end, C, bancos de dados, DevOps e Cloud). Não informa a busca por estágio, e Python, a base técnica, não aparece.
+- **Conteúdo:** o artigo "O que é Cloud Computing?" é didático, com título e subtítulo adequados para iniciantes. Por ser o mesmo texto do Dev.to, recomenda-se acrescentar ao final a indicação "Publicado originalmente no Dev.to", com o link, caso o texto tenha sido copiado manualmente. Ainda não há conteúdo sobre Python, C, bancos de dados ou projetos.
+
+### 2.1.5 Plano de Carreira
+
+#### Curto prazo (6 a 12 meses)
+
+- **Objetivo:** conquistar uma oportunidade de estágio em Desenvolvimento de Software e evoluir para Desenvolvedor de Software Júnior.
+- **Cargo a alcançar:** Desenvolvedor de Software Júnior.
+- **Experiências desejadas:** participar de projetos reais; vivenciar as etapas do ciclo de desenvolvimento; desenvolver e testar funcionalidades; participar de *code reviews* e *pull requests*; corrigir bugs; trabalhar sob orientação de profissionais mais experientes; desenvolver e manter documentação técnica.
+- **Hard skills:** lógica de programação, linguagem principal, Git/GitHub, SQL e bancos de dados, APIs, POO, frameworks, Linux, arquitetura básica, autenticação, Docker, CI/CD e fundamentos de Cloud.
+- **Soft skills:** comunicação, trabalho em equipe, resolução de problemas, organização, proatividade, adaptabilidade, aprendizado contínuo e capacidade de receber e aplicar feedback.
+
+#### Médio prazo (1 a 3 anos)
+
+- **Objetivo:** Desenvolvedor de Software Júnior → DevOps Júnior → DevOps Pleno.
+- **Cargo a alcançar:** DevOps Pleno.
+- **Experiências desejadas:** desenvolver e manter aplicações em produção; participar do ciclo completo de entrega; criar e manter pipelines de CI/CD; trabalhar com Docker; utilizar serviços de Cloud; automatizar infraestrutura e *deploy*; trabalhar com IaC (Terraform); monitorar aplicações e infraestrutura; investigar e resolver problemas em produção.
+- **Hard skills:** Linux, redes, Docker, Kubernetes, CI/CD, Git, Terraform, Cloud (AWS, Azure ou Google Cloud) e segurança em Cloud.
+- **Soft skills:** comunicação, trabalho em equipe, resolução de problemas, organização, adaptabilidade, autonomia e gestão de tempo.
+
+#### Longo prazo (3 a 5 anos ou mais)
+
+- **Objetivo:** DevOps Pleno → DevOps Sênior → Cloud Engineer.
+- **Cargo a alcançar:** Cloud Engineer.
+- **Experiências desejadas:** liderar projetos e soluções de infraestrutura em cloud; projetar e implementar arquiteturas; trabalhar com ambientes escaláveis e de alta disponibilidade; definir e aplicar boas práticas de segurança; automatizar e otimizar ambientes cloud; participar de decisões técnicas e orientar profissionais menos experientes; usar IA para produtividade, automação e resolução de problemas.
+- **Hard skills:** arquitetura cloud, AWS, Azure ou Google Cloud, Kubernetes, Terraform, Linux, redes, segurança em nuvem, CI/CD avançado, inglês avançado e IA aplicada a Cloud.
+- **Soft skills:** liderança técnica, tomada de decisão, visão estratégica, comunicação técnica, autonomia, gestão de projetos e adaptabilidade.
+
+**Viabilidade:** o plano é coerente com a trajetória do mercado (Capítulo 1), mas a progressão até DevOps Pleno em 1 a 3 anos, partindo de um estágio, é ambiciosa.
+
+### 2.1.6 PDI — Plano de Desenvolvimento Individual
+
+
+#### Curto prazo (out/2026 a set/2027)
+
+**Outubro a dezembro de 2026**
+
+- **Estudar:** Python POO com pytest; SQL/PostgreSQL; Git/GitHub (PR e *code review*); API REST com FastAPI; Docker/Compose; Linux/Bash; login com JWT.
+- **Cursos e preços (todos gratuitos):** CS50P e CS50 SQL (inglês), Curso em Vídeo Python (PT-BR), SQLBolt, GitHub Skills, Pro Git (PT-BR), "FastAPI do Zero" (PT-BR), documentação do Docker, "Descomplicando Docker" da LinuxTips (aberto) e LFS101 (inglês). **Custo: R$ 0.**
+- **Entregáveis:** projeto em POO com testes; 1 PR em projeto de terceiros; API CRUD com PostgreSQL; `docker compose` rodando API + banco com login JWT; 3 artigos.
+
+**Janeiro a março de 2027**
+
+- **Estudar:** AWS Cloud Practitioner; CI/CD com GitHub Actions; deploy do projeto na AWS; inglês técnico.
+- **Cursos e preços:** Skill Builder (grátis, inglês); curso em PT-BR na Udemy (≈ R$ 30 a R$ 80 em promoção); simulados Tutorials Dojo (≈ US$ 15 a US$ 20); prova gratuita (R$ 0) com o voucher que o estudante possui (sem ele, a prova custa US$ 100).
+- **Entregáveis:** certificação Cloud Practitioner; pipeline com testes e *build*; aplicação no ar.
+
+**Abril a junho de 2027**
+
+- **Estudar:** portfólio (2 projetos); Terraform básico; observabilidade (Prometheus/Grafana); currículo, LinkedIn e GitHub; entrevistas; inglês.
+- **Cursos e preços:** tutoriais HashiCorp (grátis); documentação do Prometheus/Grafana (grátis); EFSET para medir o nível de inglês (grátis); aulas de conversação online (Preply/italki, preço variável).
+- **Entregáveis:** 2 projetos com README e deploy; IaC do projeto; nível de inglês medido.
+
+**Julho a setembro de 2027**
+
+- **Estudar:** revisão técnica (estruturas de dados, SQL, Python); entrevistas técnicas; início do AWS Solutions Architect Associate (SAA) e do Terraform.
+- **Cursos e preços:** Beecrowd e Exercism (grátis); curso de SAA (Cantrill ou Maarek, ≈ US$ 20 a US$ 60); Tutorials Dojo (≈ US$ 15 a US$ 20).
+- **Entregáveis:** candidaturas contínuas (2 a 3 horas por semana); simulações de entrevista; plano de estudo do SAA.
+
+#### Médio prazo (out/2027 a set/2029)
+
+**Ano 2 (out/2027 a set/2028)**
+
+- **Estudar:** AWS SAA; Terraform; CI/CD avançado; redes; observabilidade. **Soft skills:** *runbooks*, *code reviews* e *pair programming*.
+- **Cursos e preços:** Skill Builder e tutoriais HashiCorp (grátis); Cisco Networking Academy (grátis); curso de SAA (≈ US$ 20 a US$ 60).
+- **Provas:** o Associate custa US$ 150; o Terraform Associate 004 custa US$ 70,50 mais impostos e a prova é em inglês.
+- **Entregáveis:** as duas certificações e um projeto com IaC e monitoramento.
+
+**Ano 3 (out/2028 a set/2029)**
+
+- **Estudar:** Kubernetes; DevSecOps; SRE. **Soft skills:** *postmortems* sem culpados, decisões registradas em ADR e reunião 1:1 mensal com o líder.
+- **Cursos e preços:** "Descomplicando Kubernetes" (aberto, PT-BR); Google SRE Book (grátis); KodeKloud (assinatura mensal em dólar).
+- **Provas:** a CKA custa US$ 445 e inclui um *retake*; o AWS DevOps Engineer Professional, de US$ 300, só faz sentido após cerca de 1 ano de experiência em produção.
+- **Entregáveis:** CKA; DevOps Professional; um cluster com deploy automatizado.
+
+#### Longo prazo (out/2029 a set/2031)
+
+**Ano 4 (out/2029 a set/2030)**
+
+- **Estudar:** arquitetura cloud; alta disponibilidade; *disaster recovery*; segurança em nuvem.
+- **Cursos e preços:** AWS Well-Architected (grátis); laboratórios de DR e FinOps.
+- **Provas:** Solutions Architect Professional e Security Specialty, US$ 300 cada.
+- **Entregáveis:** as duas certificações e uma arquitetura documentada com decisões e *trade-offs*.
+
+**Ano 5 (out/2030 a set/2031)**
+
+- **Estudar:** segunda nuvem (Azure ou GCP, conforme o mercado); IA aplicada a cloud; inglês C1; liderança técnica. **Soft skills:** mentorar juniores, palestrar em comunidades e desenvolver visão de negócio.
+- **Cursos e preços:** cursos curtos do DeepLearning.AI e Skill Builder de IA (grátis); livros *The Manager's Path*, *Staff Engineer* e *Team Topologies* (preço de livro); prova da segunda nuvem (valor a confirmar no site do provedor).
+- **Entregáveis:** um projeto de alta complexidade; segunda certificação de cloud; inglês C1; mentoria ativa.
+
+**Justificativa das certificações de arquitetura:** embora o cargo-alvo seja Cloud Engineer, as certificações de nível *Professional* e *Specialty* fazem parte do plano porque o mercado exige fundamentos de arquitetura cloud também de Cloud Engineers (Capítulo 1) e porque ampliam a opção de evolução para Cloud Architect.
+
+#### Resumo dos custos das provas de certificação
+
+| Certificação | Valor (US$) |
+|---|---|
+| AWS Cloud Practitioner | 0 (voucher; sem ele, 100) |
+| AWS Solutions Architect Associate | 150,00 |
+| HashiCorp Terraform Associate 004 | 70,50 (+ impostos) |
+| Certified Kubernetes Administrator (CKA) | 445,00 |
+| AWS DevOps Engineer Professional | 300,00 |
+| AWS Solutions Architect Professional | 300,00 |
+| AWS Security Specialty | 300,00 |
+| **Total das provas listadas** | **1.565,50 (+ impostos e câmbio)** |
+
+A prova da segunda nuvem (Ano 5) não está incluída no total, pois o valor ainda será confirmado.
+
+### 2.1.7 Feedback por pares recebido por Davi
