@@ -175,3 +175,41 @@ A partir da análise das funções e das vagas, as competências foram divididas
 - **Hard skills:** arquitetura de soluções em Cloud; AWS, Azure e/ou GCP; redes; segurança; IAM; containers e Kubernetes; microsserviços; computação distribuída; infraestrutura como código; alta disponibilidade; escalabilidade; *disaster recovery*; ambientes híbridos e multicloud; FinOps; *Cloud Adoption Frameworks*; *Well-Architected Framework*; diagramas e documentação de arquitetura; noções de Linux, Git, CI/CD e observabilidade.
 - **Soft skills:** comunicação técnica; visão sistêmica; levantamento de requisitos; tomada de decisões; capacidade de traduzir necessidades de negócio em soluções técnicas; negociação e alinhamento com diferentes equipes; organização; capacidade de apresentar e justificar decisões técnicas; liderança técnica; visão estratégica.
 
+#### Síntese das competências
+
+**Legenda:** ✓ = competência exigida com frequência; ◐ = conhecimento complementar (noções); — = não é foco da função.
+
+| Competência | DevOps Engineer | Cloud Engineer | Cloud Architect |
+|---|:---:|:---:|:---:|
+| Linux | ✓ | ✓ | ◐ |
+| Redes | ✓ | ✓ | ✓ |
+| Git | ✓ | ✓ | ◐ |
+| Cloud Computing | ✓ | ✓ | ✓ |
+| Docker | ✓ | ✓ | ✓ |
+| Kubernetes | ✓ | ✓ | ✓ |
+| Terraform / IaC | ✓ | ✓ | ✓ |
+| CI/CD | ✓ | ◐ | ◐ |
+| Observabilidade | ✓ | ✓ | ◐ |
+| Segurança | ✓ | ✓ | ✓ |
+| FinOps | — | ◐ | ✓ |
+| Arquitetura de soluções | — | ◐ | ✓ |
+| Microsserviços | ◐ | ◐ | ✓ |
+| Multicloud | ◐ | ✓ | ✓ |
+| Automação | ✓ | ✓ | ✓ |
+| Comunicação técnica | ✓ | ✓ | ✓ |
+| Visão de negócio | — | ◐ | ✓ |
+| Tomada de decisões arquiteturais | — | — | ✓ |
+
+A comparação mostra que os três perfis compartilham uma base formada principalmente por Linux, redes, Cloud Computing, Git, automação, containers, segurança e infraestrutura. A profundidade de cada conhecimento, porém, varia conforme a função.
+
+Para estudantes de Análise e Desenvolvimento de Sistemas, conhecimentos adquiridos na graduação (programação, bancos de dados, Git, lógica de programação e fundamentos de sistemas) servem de base para a evolução em direção a essas funções. Os principais *gaps* tendem a aparecer nos conhecimentos específicos de infraestrutura e nuvem: Linux, redes, containers, Kubernetes, CI/CD, Terraform, serviços de AWS/Azure/GCP, observabilidade, segurança e arquitetura de soluções.
+
+Assim, a formação para atuar com Cloud Computing não depende do domínio de uma única tecnologia: o mercado combina desenvolvimento, infraestrutura, automação, redes, segurança, arquitetura e conhecimentos de negócio. Essa comparação entre as competências do mercado e as da formação acadêmica é a base para as etapas seguintes, que identificam quais competências já fazem parte do perfil de cada estudante e quais precisam ser desenvolvidas.
+
+---
+
+## Capítulo 2 — Posicionamento Profissional em Meios Digitais
+
+Este capítulo analisa o posicionamento profissional dos estudantes de Análise e Desenvolvimento de Sistemas nas plataformas **GitHub, LinkedIn, Instagram, Dev.to e Medium**. As métricas e capturas de tela foram coletadas entre agosto e setembro de 2026, e as comparações de "antes" e "depois" referem-se a capturas feitas nesse período. Cada seção individual segue a mesma estrutura: GitHub, LinkedIn, Instagram, outras redes profissionais, Plano de Carreira, Plano de Desenvolvimento Individual (PDI) e feedback por pares.
+
+---
